@@ -1,14 +1,380 @@
 {
-  "generated": "2026-05-18T12:50:58.826Z",
+  "generated": "2026-05-18T14:23:10.764Z",
   "tracks": [
     {
-      "sourceFile": "2026-05-09.gpx",
+      "sourceFile": "2026-05-09.geojson",
       "geojson": "routes/2026-05-09.geojson",
       "pointCount": 6036,
       "distanceKm": 212.834
     },
     {
-      "sourceFile": "sample-track.gpx",
+      "sourceFile": "d01.geojson",
+      "geojson": "routes/d01.geojson",
+      "pointCount": 5191,
+      "distanceKm": 332.346
+    },
+    {
+      "sourceFile": "d02.geojson",
+      "geojson": "routes/d02.geojson",
+      "pointCount": 3400,
+      "distanceKm": 251.249
+    },
+    {
+      "sourceFile": "d03.geojson",
+      "geojson": "routes/d03.geojson",
+      "pointCount": 465,
+      "distanceKm": 4.138
+    },
+    {
+      "sourceFile": "d04.geojson",
+      "geojson": "routes/d04.geojson",
+      "pointCount": 4515,
+      "distanceKm": 442.684
+    },
+    {
+      "sourceFile": "d05.geojson",
+      "geojson": "routes/d05.geojson",
+      "pointCount": 4476,
+      "distanceKm": 252.69
+    },
+    {
+      "sourceFile": "d06.geojson",
+      "geojson": "routes/d06.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d07.geojson",
+      "geojson": "routes/d07.geojson",
+      "pointCount": 6071,
+      "distanceKm": 414.373
+    },
+    {
+      "sourceFile": "d08.geojson",
+      "geojson": "routes/d08.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d09.geojson",
+      "geojson": "routes/d09.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d10.geojson",
+      "geojson": "routes/d10.geojson",
+      "pointCount": 6084,
+      "distanceKm": 338.834
+    },
+    {
+      "sourceFile": "d11.geojson",
+      "geojson": "routes/d11.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d12.geojson",
+      "geojson": "routes/d12.geojson",
+      "pointCount": 3105,
+      "distanceKm": 530.152
+    },
+    {
+      "sourceFile": "d13.geojson",
+      "geojson": "routes/d13.geojson",
+      "pointCount": 3340,
+      "distanceKm": 608.193
+    },
+    {
+      "sourceFile": "d14.geojson",
+      "geojson": "routes/d14.geojson",
+      "pointCount": 3322,
+      "distanceKm": 512.965
+    },
+    {
+      "sourceFile": "d15.geojson",
+      "geojson": "routes/d15.geojson",
+      "pointCount": 4478,
+      "distanceKm": 397.729
+    },
+    {
+      "sourceFile": "d16.geojson",
+      "geojson": "routes/d16.geojson",
+      "pointCount": 827,
+      "distanceKm": 14.269
+    },
+    {
+      "sourceFile": "d17.geojson",
+      "geojson": "routes/d17.geojson",
+      "pointCount": 4093,
+      "distanceKm": 159.232
+    },
+    {
+      "sourceFile": "d18.geojson",
+      "geojson": "routes/d18.geojson",
+      "pointCount": 3379,
+      "distanceKm": 146.206
+    },
+    {
+      "sourceFile": "d19.geojson",
+      "geojson": "routes/d19.geojson",
+      "pointCount": 4046,
+      "distanceKm": 261.891
+    },
+    {
+      "sourceFile": "d20.geojson",
+      "geojson": "routes/d20.geojson",
+      "pointCount": 4861,
+      "distanceKm": 284.995
+    },
+    {
+      "sourceFile": "d21.geojson",
+      "geojson": "routes/d21.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d22.geojson",
+      "geojson": "routes/d22.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d23.geojson",
+      "geojson": "routes/d23.geojson",
+      "pointCount": 5967,
+      "distanceKm": 493.345
+    },
+    {
+      "sourceFile": "d24-willaby-camp-clean.geojson",
+      "geojson": "routes/d24-willaby-camp-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d25-willaby-camp-conolel-bob-clean.geojson",
+      "geojson": "routes/d25-willaby-camp-conolel-bob-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d26-willaby-to-mora-camp-clean.geojson",
+      "geojson": "routes/d26-willaby-to-mora-camp-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d27-mora-camp-quillayute-river-clean.geojson",
+      "geojson": "routes/d27-mora-camp-quillayute-river-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d28-mora-to-hurricane-ridge.geojson",
+      "geojson": "routes/d28-mora-to-hurricane-ridge.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d29-loop-a-clallam-county-wa-usa-to-2878-quinsam-road-campbell-river-bc-canada-clean.geojson",
+      "geojson": "routes/d29-loop-a-clallam-county-wa-usa-to-2878-quinsam-road-campbell-river-bc-canada-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d30-quinsam-campground-to-1931-island-highway-campbell-river-bc-canada.geojson",
+      "geojson": "routes/d30-quinsam-campground-to-1931-island-highway-campbell-river-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d31-elk-river-to-telegraph-cove.geojson",
+      "geojson": "routes/d31-elk-river-to-telegraph-cove.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d32-cluxewe-river-to-blackfish-sound-bc-canada.geojson",
+      "geojson": "routes/d32-cluxewe-river-to-blackfish-sound-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d33-mount-waddington-to-side-bay-bc-canada.geojson",
+      "geojson": "routes/d33-mount-waddington-to-side-bay-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d34-side-bay.geojson",
+      "geojson": "routes/d34-side-bay.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d35-san-josef.geojson",
+      "geojson": "routes/d35-san-josef.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d36-san-josef-recreation-area-to-san-josef-bay-campsite-bc-canada.geojson",
+      "geojson": "routes/d36-san-josef-recreation-area-to-san-josef-bay-campsite-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d37-raft-cove.geojson",
+      "geojson": "routes/d37-raft-cove.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d38-quatse-loop-port-hardy-to-1016-eagle-drive-prince-rupert-bc-canada-clean.geojson",
+      "geojson": "routes/d38-quatse-loop-port-hardy-to-1016-eagle-drive-prince-rupert-bc-canada-clean.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d39-180-eagle-close-prince-rupert-to-4055-motz-road-bc-canada.geojson",
+      "geojson": "routes/d39-180-eagle-close-prince-rupert-to-4055-motz-road-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d40-spey-2940-lavergne-road-to-4055-motz-road-bc-canada.geojson",
+      "geojson": "routes/d40-spey-2940-lavergne-road-to-4055-motz-road-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d41-kispiox.geojson",
+      "geojson": "routes/d41-kispiox.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d42-elizabeth-lake-to-jigsaw-lake-recreation-site-bc-canada.geojson",
+      "geojson": "routes/d42-elizabeth-lake-to-jigsaw-lake-recreation-site-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d43-jigsaw-lake-recreation-site-to-salmon-glacier-summit-viewpoint-stewart-bc-canada.geojson",
+      "geojson": "routes/d43-jigsaw-lake-recreation-site-to-salmon-glacier-summit-viewpoint-stewart-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d44-salmon-glacier-summit-viewpoint-stewart-bc-canada-to-eagle-point-prince-of-wales-hyder-census-area-ak-usa.geojson",
+      "geojson": "routes/d44-salmon-glacier-summit-viewpoint-stewart-bc-canada-to-eagle-point-prince-of-wales-hyder-census-area-ak-usa.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d45-eagle-point-prince-of-wales-hyder-census-area-to-moose-pond-hyder-ak-usa.geojson",
+      "geojson": "routes/d45-eagle-point-prince-of-wales-hyder-census-area-to-moose-pond-hyder-ak-usa.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d46-hyder-to-kinaskan-lake.geojson",
+      "geojson": "routes/d46-hyder-to-kinaskan-lake.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d47-kinaskan-lake-campground-to-boya-lake-provincial-campground-bc-canada.geojson",
+      "geojson": "routes/d47-kinaskan-lake-campground-to-boya-lake-provincial-campground-bc-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d48-boya-lake-provincial-campground-bc-to-teslin-lake-campground-yt-canada.geojson",
+      "geojson": "routes/d48-boya-lake-provincial-campground-bc-to-teslin-lake-campground-yt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d49-chilcoot-river-campground.geojson",
+      "geojson": "routes/d49-chilcoot-river-campground.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d50-chilcoot-river.geojson",
+      "geojson": "routes/d50-chilcoot-river.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d51-chilkoot-lake-state-recreationsite-lutak-ak-usa-to-kathleen-lake-yt-canada.geojson",
+      "geojson": "routes/d51-chilkoot-lake-state-recreationsite-lutak-ak-usa-to-kathleen-lake-yt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d52-kathleen-lake-to-hard-luck-creek-yt-canada.geojson",
+      "geojson": "routes/d52-kathleen-lake-to-hard-luck-creek-yt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d53-hard-luck-creek-yt-canada-to-clearwater-camp-southeast-fairbanks-census-area-ak-usa.geojson",
+      "geojson": "routes/d53-hard-luck-creek-yt-canada-to-clearwater-camp-southeast-fairbanks-census-area-ak-usa.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d54-wrangell-st-elias-in.geojson",
+      "geojson": "routes/d54-wrangell-st-elias-in.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d55-wrangell-st-elias-out.geojson",
+      "geojson": "routes/d55-wrangell-st-elias-out.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d56-southeast-fairbanks-census-area-ak-usa-to-davis-creek-yt-canada.geojson",
+      "geojson": "routes/d56-southeast-fairbanks-census-area-ak-usa-to-davis-creek-yt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d57-dawson-city.geojson",
+      "geojson": "routes/d57-dawson-city.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d58-chisholm-creek-to-yukon-yt-canada.geojson",
+      "geojson": "routes/d58-chisholm-creek-to-yukon-yt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d59-eagle-plains.geojson",
+      "geojson": "routes/d59-eagle-plains.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d60-yukon-yt-to-gwichin-territorial-campground-nt-canada.geojson",
+      "geojson": "routes/d60-yukon-yt-to-gwichin-territorial-campground-nt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "d61-gwichin-territorial-campground-to-our-lady-of-lourdes-tuktoyaktuk-nt-canada.geojson",
+      "geojson": "routes/d61-gwichin-territorial-campground-to-our-lady-of-lourdes-tuktoyaktuk-nt-canada.geojson",
+      "pointCount": 0,
+      "distanceKm": 0
+    },
+    {
+      "sourceFile": "sample-track.geojson",
       "geojson": "routes/sample-track.geojson",
       "pointCount": 14,
       "distanceKm": 585.885

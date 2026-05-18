@@ -132,13 +132,6 @@ function main() {
     fs.mkdirSync(ROUTES_DIR, { recursive: true });
   }
 
-  // Remove stale per-track outputs so deleted GPX files do not linger in docs/routes.
-  fs.readdirSync(ROUTES_DIR)
-    .filter(name => name.toLowerCase().endsWith('.geojson'))
-    .forEach((name) => {
-      fs.unlinkSync(path.join(ROUTES_DIR, name));
-    });
-
   // Remove legacy merged route artifact.
   if (fs.existsSync(LEGACY_OUTPUT_FILE)) {
     fs.unlinkSync(LEGACY_OUTPUT_FILE);

@@ -20,7 +20,8 @@ The site is deployed at: `https://toddringler.github.io/tracking-waldo/`
 ## 🧱 Architecture
 
 ```
-/data/tracks/        ← GPX files from Gaia GPS (truth layer)
+/docs/routes/        ← Route GeoJSON files used by the live map (truth layer)
+/data/tracks/        ← Optional GPX source files (for one-time conversion)
 /data/events/        ← Daily JSON event logs (narrative layer)
 /scripts/            ← Node.js build pipeline
 /docs/               ← Frontend source files and GitHub Pages deployment root
@@ -42,9 +43,15 @@ Edit `docs/config.js` and replace `YOUR_MAPBOX_PUBLIC_TOKEN_HERE` with your [Map
 
 > Mapbox public tokens are designed for client-side use. Restrict yours to your GitHub Pages domain in the Mapbox dashboard.
 
-### 3. Add GPS data
+### 3. Add route GeoJSON data
 
-Export GPX tracks from [Gaia GPS](https://www.gaiagps.com/) and place them in `/data/tracks/`.
+Place route files in `/docs/routes/*.geojson`.
+
+If needed, you can still convert GPX tracks from [Gaia GPS](https://www.gaiagps.com/) with:
+
+```bash
+npm run gpx
+```
 
 ### 4. Add Waldo events
 
@@ -81,7 +88,7 @@ npm run build
 ```
 
 This runs three scripts:
-1. `gpx-to-geojson.js` — converts each GPX track → `docs/routes/*.geojson` and writes `docs/route-files.json`
+1. `build-route-manifest.js` — reads `docs/routes/*.geojson` and writes `docs/route-files.json`
 2. `build-waldo-events.js` — converts event JSONs → `docs/waldo-events.geojson`
 3. `build-site.js` — finalizes `docs/` for GitHub Pages
 
@@ -89,7 +96,7 @@ Optional mtime cutoff filtering:
 ```bash
 DELTA_SECONDS=200000 npm run build
 ```
-When `DELTA_SECONDS` is set, files newer than `now - DELTA_SECONDS` are ignored.
+`DELTA_SECONDS` only applies to `npm run gpx` (GPX conversion), not `npm run build`.
 
 ### 6. Deploy
 

@@ -4,8 +4,9 @@
   "description": "Waldo Expedition Tracking System — Arctic overlanding journal disguised as a GPS tracker",
   "scripts": {
     "gpx": "node scripts/gpx-to-geojson.js",
+    "routes": "node scripts/build-route-manifest.js",
     "events": "node scripts/build-waldo-events.js",
-    "build": "npm run gpx && npm run events && node scripts/build-site.js",
+    "build": "npm run routes && npm run events && node scripts/build-site.js",
     "start": "npx serve docs"
   },
   "engines": {

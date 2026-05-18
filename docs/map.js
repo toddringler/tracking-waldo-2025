@@ -45,7 +45,6 @@ let routeVisible = true;
 let eventsVisible = true;
 let routeData = null;
 let eventsData = null;
-let migration2025Data = null;
 let loadingTimeoutId = null;
 const LOADING_TIMEOUT_MS = 15000;
 
@@ -442,18 +441,6 @@ document.getElementById('btn-legend').addEventListener('click', function () {
 document.getElementById('btn-fit').addEventListener('click', () => {
   if (routeData && eventsData) fitToData(routeData, eventsData);
 });
-
-const migrationToggleBtn = document.getElementById('toggle-2025-track-btn');
-if (migrationToggleBtn) {
-  migrationToggleBtn.addEventListener('click', function () {
-    if (!map.getLayer('migration-2025-line')) return;
-
-    migration2025Visible = !migration2025Visible;
-    map.setLayoutProperty('migration-2025-line', 'visibility', migration2025Visible ? 'visible' : 'none');
-    this.classList.toggle('toggle-on', migration2025Visible);
-    this.setAttribute('aria-pressed', String(migration2025Visible));
-  });
-}
 
 // ---------------------------------------------------------------------------
 // Utilities

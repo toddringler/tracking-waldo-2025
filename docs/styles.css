@@ -213,13 +213,6 @@ html, body {
   padding-bottom: env(safe-area-inset-bottom);
 }
 
-.migration-track-footer-btn {
-  margin-left: auto;
-  flex-shrink: 0;
-}
-
-
-
 .btn.toggle-on {
   background: var(--color-accent);
   border-color: var(--color-accent);

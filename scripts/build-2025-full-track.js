@@ -1,26 +1,4 @@
-#!/usr/bin/env node
-/**
- * Build: 2025 Full Track (GeoJSON)
- *
- * Merges daily GeoJSON files from background/2025/daily-geojson into
- * a single LineString track and writes:
- *   docs/supplement/full_track_2025.geojson
- */
-
-'use strict';
-
-const fs = require('fs');
-const path = require('path');
-
-const INPUT_DIR = path.join(__dirname, '..', 'background', '2025', 'daily-geojson');
-const OUTPUT_DIR = path.join(__dirname, '..', 'docs', 'supplement');
-const OUTPUT_FILE = path.join(OUTPUT_DIR, 'full_track_2025.geojson');
-
-function parseDayIndex(fileName) {
-  const match = fileName.match(/^d(\d+)/i);
-  if (!match) return Number.POSITIVE_INFINITY;
-  return Number.parseInt(match[1], 10);
-}
+// This script is now deprecated. The 2025 daily-geojson processing has been removed.
 
 function compareInputFiles(a, b) {
   const dayA = parseDayIndex(a);

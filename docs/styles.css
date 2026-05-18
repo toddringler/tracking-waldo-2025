@@ -218,10 +218,7 @@ html, body {
   flex-shrink: 0;
 }
 
-.text-demo-footer-btn {
-  margin-right: 12px;
-  flex-shrink: 0;
-}
+
 
 .btn.toggle-on {
   background: var(--color-accent);
@@ -734,163 +731,7 @@ textarea.form-control {
   opacity: 1;
 }
 
-/* ── Text Demo Drawer ─────────────────────────────────────── */
-#text-demo-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(5, 8, 12, 0.6);
-  display: none;
-  align-items: stretch;
-  justify-content: flex-end;
-  z-index: 1200;
-}
 
-#text-demo-overlay.open {
-  display: flex;
-}
-
-#text-demo-drawer {
-  width: min(640px, 92vw);
-  height: 100%;
-  background: var(--color-surface);
-  border-left: 1px solid var(--color-border);
-  box-shadow: var(--shadow);
-  display: flex;
-  flex-direction: column;
-}
-
-#text-demo-header {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 16px 18px 12px;
-  border-bottom: 1px solid var(--color-border);
-}
-
-#text-demo-header h2 {
-  font-size: 16px;
-  color: var(--color-accent);
-  margin-bottom: 4px;
-}
-
-#text-demo-subtitle {
-  font-size: 12px;
-  color: var(--color-text-muted);
-  line-height: 1.4;
-}
-
-#text-demo-close {
-  background: transparent;
-  border: 1px solid var(--color-border);
-  color: var(--color-text);
-  width: 34px;
-  height: 34px;
-  border-radius: var(--radius-sm);
-  cursor: pointer;
-  flex-shrink: 0;
-}
-
-#text-demo-close:hover {
-  background: var(--color-border);
-}
-
-#text-demo-body {
-  flex: 1;
-  min-height: 0;
-  padding: 16px 18px;
-  display: flex;
-}
-
-#text-demo-content {
-  width: 100%;
-  flex: 1 1 auto;
-  min-height: 0;
-  background: var(--color-bg);
-  color: var(--color-text);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius);
-  padding: 16px;
-  font-family: var(--font-sans);
-  font-size: 14px;
-  line-height: 1.6;
-  outline: none;
-  overflow-y: auto;
-  scrollbar-gutter: stable;
-}
-
-#text-demo-content .origin-story-inline-image {
-  float: right;
-  width: 50%;
-  max-width: 50%;
-  height: auto;
-  margin: 0 0 12px 16px;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
-  background: #0f141b;
-}
-
-#text-demo-content h1,
-#text-demo-content h2,
-#text-demo-content h3,
-#text-demo-content h4,
-#text-demo-content h5,
-#text-demo-content h6 {
-  color: var(--color-accent);
-  line-height: 1.3;
-  margin: 1.1em 0 0.55em;
-}
-
-#text-demo-content p {
-  margin: 0 0 0.9em;
-  white-space: pre-line;
-}
-
-#text-demo-content ul {
-  margin: 0 0 0.9em 1.25em;
-  padding: 0;
-}
-
-#text-demo-content li {
-  margin: 0 0 0.4em;
-}
-
-#text-demo-content blockquote {
-  margin: 0 0 0.9em;
-  padding: 0.1em 0 0.1em 0.75em;
-  border-left: 3px solid var(--color-border);
-  color: var(--color-text-muted);
-}
-
-#text-demo-content > :first-child {
-  margin-top: 0;
-}
-
-#text-demo-content > :last-child {
-  margin-bottom: 0;
-}
-
-#text-demo-content:focus {
-  border-color: var(--color-accent);
-}
-
-#text-demo-footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  padding: 0 18px 18px;
-}
-
-#text-demo-meta {
-  font-size: 12px;
-  color: var(--color-text-muted);
-  font-family: var(--font-mono);
-}
-
-#text-demo-copy {
-  display: none !important;
-}
 
 #photo-overlay {
   position: fixed;
@@ -949,18 +790,7 @@ textarea.form-control {
   text-align: center;
 }
 
-@media (max-width: 900px) {
-  #text-demo-drawer {
-    width: 100vw !important;
-    min-width: 0;
-    max-width: 100vw;
-    left: 0;
-    right: 0;
-    border-radius: 0;
-    border-left: none;
-    box-shadow: none;
-  }
-}
+
 
 /* ── Responsive ───────────────────────────────────────────── */
 @media (max-width: 640px) {
@@ -1003,38 +833,5 @@ textarea.form-control {
   }
   #entry-form-panel {
     height: auto;
-  }
-  #text-demo-header,
-  #text-demo-body,
-  #text-demo-footer {
-    padding-left: 4vw;
-    padding-right: 4vw;
-  }
-  #text-demo-drawer {
-    width: 100vw !important;
-    min-width: 0;
-    max-width: 100vw;
-    left: 0;
-    right: 0;
-    border-radius: 0;
-    border-left: none;
-    box-shadow: none;
-  }
-  #text-demo-content {
-    min-height: 0;
-    padding: 10px 0 10px 0;
-    width: 100%;
-    max-width: 100vw;
-    box-sizing: border-box;
-    overflow-x: hidden;
-  }
-  #text-demo-content .origin-story-inline-image {
-    float: none;
-    display: block;
-    width: 100vw;
-    max-width: 100vw;
-    margin: 0 0 12px 0;
-    height: auto;
-    box-sizing: border-box;
   }
 }

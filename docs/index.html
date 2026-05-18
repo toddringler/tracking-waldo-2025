@@ -24,8 +24,8 @@
     <div id="header-brand">
       <span id="header-icon">🚐</span>
       <div>
-        <h1>Navigator's Log // Northern Migration 2026</h1>
-        <div id="header-subtitle">Waldo -- 2024 Tacoma OR TRD · Tune M1 · KO3</div>
+        <h1>Navigator's Log // Reconnaissance 2025</h1>
+        <div id="header-subtitle">Waldo -- 2024 Tacoma OR TRD · Tune M1 · AT3WA</div>
       </div>
     </div>
     <div id="header-actions">
@@ -49,25 +49,6 @@
     </div>
   </aside>
 
-  <!-- Text Demo Drawer -->
-  <div id="text-demo-overlay" aria-hidden="true">
-    <section id="text-demo-drawer" role="dialog" aria-modal="true" aria-labelledby="text-demo-title">
-      <div id="text-demo-header">
-        <div>
-          <h2 id="text-demo-title">Waldo's Origin Story</h2>
-        </div>
-        <button id="text-demo-close" title="Close text demo">✕</button>
-      </div>
-      <div id="text-demo-body">
-        <div id="text-demo-content" role="textbox" aria-readonly="true" tabindex="0">
-          <p>Opening Waldo's origin story...</p>
-        </div>
-      </div>
-      <div id="text-demo-footer">
-        <div id="text-demo-meta">Words: <span id="text-demo-count">0</span></div>
-      </div>
-    </section>
-  </div>
 
   <!-- Photo Overlay -->
   <div id="photo-overlay" aria-hidden="true">
@@ -140,9 +121,6 @@
       <span class="stat-label">Last Known Position</span>
       <span class="stat-value" id="stat-position">—</span>
     </div>
-    <button class="btn text-demo-footer-btn" id="toggle-text-demo-btn" title="Open text demo">
-      📝 Waldo's Origin Story
-    </button>
   </div>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.3.0/mapbox-gl.js"></script>
@@ -188,147 +166,6 @@
         sessionStorage.setItem('waldo_admin_verified', 'true');
         addEventBtn.style.display = 'block';
       }
-    })();
-  </script>
-  <script>
-    (function() {
-      const overlay = document.getElementById('text-demo-overlay');
-      const openBtn = document.getElementById('toggle-text-demo-btn');
-      const closeBtn = document.getElementById('text-demo-close');
-      const content = document.getElementById('text-demo-content');
-      const count = document.getElementById('text-demo-count');
-      const originStoryPath = 'waldo-origin-story.md';
-      const originStoryImagePath = 'background/waldo.roams.png';
-
-      function escapeHtml(text) {
-        return text
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;');
-      }
-
-      function renderInlineMarkdown(text) {
-        const safeText = escapeHtml(text);
-        return safeText
-          .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-          .replace(/\*(.+?)\*/g, '<em>$1</em>')
-          .replace(/`(.+?)`/g, '<code>$1</code>');
-      }
-
-      function renderMarkdown(markdown) {
-        const lines = markdown.replace(/\r\n?/g, '\n').split('\n');
-        const html = [];
-        const paragraphLines = [];
-        let inList = false;
-
-        function flushParagraph() {
-          if (!paragraphLines.length) return;
-          html.push(`<p>${renderInlineMarkdown(paragraphLines.join('\n'))}</p>`);
-          paragraphLines.length = 0;
-        }
-
-        function closeList() {
-          if (!inList) return;
-          html.push('</ul>');
-          inList = false;
-        }
-
-        for (const rawLine of lines) {
-          const line = rawLine.trim();
-
-          if (!line) {
-            flushParagraph();
-            closeList();
-            continue;
-          }
-
-          const headingMatch = line.match(/^(#{1,6})\s+(.+)$/);
-          if (headingMatch) {
-            flushParagraph();
-            closeList();
-            const level = headingMatch[1].length;
-            html.push(`<h${level}>${renderInlineMarkdown(headingMatch[2])}</h${level}>`);
-            continue;
-          }
-
-          const quoteMatch = line.match(/^>\s?(.*)$/);
-          if (quoteMatch) {
-            flushParagraph();
-            closeList();
-            html.push(`<blockquote><p>${renderInlineMarkdown(quoteMatch[1])}</p></blockquote>`);
-            continue;
-          }
-
-          const listMatch = line.match(/^-\s+(.+)$/);
-          if (listMatch) {
-            flushParagraph();
-            if (!inList) {
-              html.push('<ul>');
-              inList = true;
-            }
-            html.push(`<li>${renderInlineMarkdown(listMatch[1])}</li>`);
-            continue;
-          }
-
-          closeList();
-          paragraphLines.push(line);
-        }
-
-        flushParagraph();
-        closeList();
-
-        return html.join('\n');
-      }
-
-      async function loadOriginStory() {
-        try {
-          const response = await fetch(`${originStoryPath}?t=${Date.now()}`, { cache: 'no-store' });
-          if (!response.ok) {
-            throw new Error(`Unable to load origin story (${response.status})`);
-          }
-
-          const htmlCommentPattern = new RegExp('<!--[\\s\\S]*?-->', 'g');
-          const markdown = (await response.text()).replace(htmlCommentPattern, '');
-          const storyHtml = renderMarkdown(markdown);
-          const imageHtml = `<img class="origin-story-inline-image" src="${originStoryImagePath}" alt="Waldo roaming in the wild" loading="lazy" decoding="async" />`;
-          content.innerHTML = `${imageHtml}${storyHtml}`;
-        } catch (error) {
-          content.innerHTML = '<p>Unable to load Waldo\'s origin story right now.</p>';
-          console.error(error);
-        }
-
-        updateCount();
-      }
-
-      function updateCount() {
-        const words = content.textContent.trim().match(/\S+/g);
-        count.textContent = words ? words.length : 0;
-      }
-
-      async function openDrawer() {
-        overlay.classList.add('open');
-        overlay.setAttribute('aria-hidden', 'false');
-        await loadOriginStory();
-        content.focus();
-        updateCount();
-      }
-
-      function closeDrawer() {
-        overlay.classList.remove('open');
-        overlay.setAttribute('aria-hidden', 'true');
-        openBtn.focus();
-      }
-
-      openBtn.addEventListener('click', openDrawer);
-      closeBtn.addEventListener('click', closeDrawer);
-      overlay.addEventListener('click', (event) => {
-        if (event.target === overlay) closeDrawer();
-      });
-      document.addEventListener('keydown', (event) => {
-        if (event.key === 'Escape' && overlay.classList.contains('open')) closeDrawer();
-      });
-
-      updateCount();
     })();
   </script>
 </body>

@@ -1203,8 +1203,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -127.175886,
-          50.612275
+          -126.795464,
+          50.562107
         ]
       },
       "properties": {
@@ -1308,8 +1308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -127.434346,
-          50.532066
+          -127.905475,
+          50.335833
         ]
       },
       "properties": {
@@ -1359,27 +1359,6 @@
         "date": "2025-08-06",
         "type": "camp",
         "title": "San Josef Bay Campsite, BC",
-        "thought": "End of day thirty-six. Beach camp at San Josef Bay.",
-        "mood": "content",
-        "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -128.239595,
-          50.682423
-        ]
-      },
-      "properties": {
-        "day": 36,
-        "date": "2025-08-06",
-        "type": "camp",
-        "title": "Waldo at San Josef Bay Campsite",
         "thought": "Waldo earned every speck of that mud — RTT up, awning out, San Josef Bay delivered.",
         "mood": "content",
         "status": "",
@@ -1527,27 +1506,6 @@
         "date": "2025-08-11",
         "type": "camp",
         "title": "Kispiox, BC",
-        "thought": "End of day forty-one. Kispiox steelhead water.",
-        "mood": "content",
-        "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -128.023497,
-          55.590855
-        ]
-      },
-      "properties": {
-        "day": 41,
-        "date": "2025-08-11",
-        "type": "camp",
-        "title": "Dawn Watch from the RTT, Kispiox",
         "thought": "Scanning from the RTT at first light — the wildlife comes out when the camp stays quiet.",
         "mood": "content",
         "status": "",
@@ -1569,32 +1527,11 @@
         "date": "2025-08-12",
         "type": "camp",
         "title": "Jigsaw Lake Recreation Site, BC",
-        "thought": "End of day forty-two. Tucked in at Jigsaw Lake.",
+        "thought": "Jigsaw Lake — the kind of spot that makes you recalibrate what 'beautiful' means.",
         "mood": "content",
         "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -128.837753,
-          55.841513
-        ]
-      },
-      "properties": {
-        "day": 42,
-        "date": "2025-08-12",
-        "type": "camp",
-        "title": "Jigsaw Lake at Dawn",
-        "thought": "Jigsaw Lake at dawn — camp didn't get much quieter than this.",
-        "mood": "content",
-        "status": "",
-        "photoFilename": "1F40317B-0270-4D1E-B72F-0773E05E8A0D.JPG",
-        "photoCaption": "Waldo perched at the edge of a mirror-calm Jigsaw Lake, boreal spruce and birch reflected in still water."
+        "photoFilename": "CBB797CD-A37F-40B3-B549-C08852312F2E.JPG",
+        "photoCaption": "Waldo lakeside at Jigsaw Lake Recreation Site, BC, as a photographer scans the water."
       }
     },
     {
@@ -1616,27 +1553,6 @@
         "status": "",
         "photoFilename": "",
         "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -128.837753,
-          55.841575
-        ]
-      },
-      "properties": {
-        "day": 43,
-        "date": "2025-08-13",
-        "type": "camp",
-        "title": "Jigsaw Lake, BC",
-        "thought": "Jigsaw Lake — the kind of spot that makes you recalibrate what 'beautiful' means.",
-        "mood": "content",
-        "status": "",
-        "photoFilename": "CBB797CD-A37F-40B3-B549-C08852312F2E.JPG",
-        "photoCaption": "Waldo lakeside at Jigsaw Lake Recreation Site, BC, as a photographer scans the water."
       }
     },
     {
@@ -1714,7 +1630,7 @@
       "properties": {
         "day": 44,
         "date": "2025-08-14",
-        "type": "camp",
+        "type": "sighting",
         "title": "Glacier Viewpoint Camp",
         "thought": "The Salmon Glacier viewpoint draws its people — camped here with a collection of wanderers.",
         "mood": "content",
@@ -1749,29 +1665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -130.027922,
-          55.909
-        ]
-      },
-      "properties": {
-        "day": 45,
-        "date": "2025-08-15",
-        "type": "camp",
-        "title": "Moose Pond, Hyder, AK",
-        "thought": "End of day forty-five. Hyder — the friendliest ghost town in Alaska.",
-        "mood": "content",
-        "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -130.027922,
-          55.909
+          -130.021732,
+          55.911973
         ]
       },
       "properties": {
@@ -1875,8 +1770,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -132.91255,
-          60.232283
+          -129.051338,
+          60.002032
         ]
       },
       "properties": {
@@ -1917,8 +1812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -135.56773,
-          59.334831
+          -135.044863,
+          59.717872
         ]
       },
       "properties": {
@@ -1938,20 +1833,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -135.56773,
-          59.334831
+          -135.568901,
+          59.335263
         ]
       },
       "properties": {
         "day": 49,
         "date": "2025-08-19",
         "type": "sighting",
-        "title": "Grizzly on Fish Creek",
-        "thought": "A grizzly on Fish Creek coming straight at the lens — that's a good use of a telephoto.",
+        "title": "Grizzly on the Chilkoot River, AK",
+        "thought": "A grizzly on the Chilkoot coming straight at the lens — that's a good use of a telephoto.",
         "mood": "optimistic",
         "status": "",
         "photoFilename": "44096EEB-93E2-4637-B255-073F254E33F9.JPG",
-        "photoCaption": "A soaking wet grizzly bear strides along the rocks of Fish Creek near Hyder, heading straight for the camera."
+        "photoCaption": "A soaking wet grizzly bear strides along the rocks of the Chilkoot River near Haines, AK, heading straight for the camera."
       }
     },
     {
@@ -2001,8 +1896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -137.207692,
-          60.5784
+          -137.128612,
+          60.549434
         ]
       },
       "properties": {
@@ -2022,20 +1917,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -139.757366,
-          61.679228
+          -139.749793,
+          61.678567
         ]
       },
       "properties": {
         "day": 52,
         "date": "2025-08-22",
         "type": "camp",
-        "title": "Clearwater Camp, YT",
-        "thought": "End of day fifty-two. Yukon highlands.",
-        "mood": "content",
+        "title": "Donjek River Camp, YT",
+        "thought": "Camped on a braided glacier bar in the Yukon — blue sky, no fences, just mountains.",
+        "mood": "optimistic",
         "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
+        "photoFilename": "9EECE308-F213-49C1-A4C0-F87FE2F678F7.JPG",
+        "photoCaption": "Waldo fully deployed on the Donjek River bar, snow-capped peaks of the St. Elias Range looming behind."
       }
     },
     {
@@ -2078,27 +1973,6 @@
         "status": "",
         "photoFilename": "",
         "photoCaption": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -143.20042,
-          63.165426
-        ]
-      },
-      "properties": {
-        "day": 53,
-        "date": "2025-08-23",
-        "type": "camp",
-        "title": "Alaska Range Braided River Bar Camp",
-        "thought": "Camped on a braided glacier bar in the Alaska Range — blue sky, no fences, just mountains.",
-        "mood": "optimistic",
-        "status": "",
-        "photoFilename": "9EECE308-F213-49C1-A4C0-F87FE2F678F7.JPG",
-        "photoCaption": "Waldo fully deployed on a Yukon/Alaska braided river bar, snow-capped peaks of the Alaska Range looming behind."
       }
     },
     {
@@ -2190,8 +2064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -140.979664,
-          64.073297
+          -138.348801,
+          64.383984
         ]
       },
       "properties": {
@@ -2211,8 +2085,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -140.979664,
-          64.073297
+          -142.259751,
+          64.007564
         ]
       },
       "properties": {
@@ -2232,8 +2106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -141.935,
-          64.074
+          -141.935786,
+          64.073053
         ]
       },
       "properties": {
@@ -2316,8 +2190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -138.348801,
-          64.383984
+          -139.155918,
+          64.035372
         ]
       },
       "properties": {
@@ -2463,8 +2337,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -133.433146,
-          68.203538
+          -136.307425,
+          66.564916
         ]
       },
       "properties": {
@@ -2484,8 +2358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -133.433146,
-          68.203538
+          -136.205691,
+          67.037206
         ]
       },
       "properties": {
@@ -2505,8 +2379,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -133.433146,
-          68.203538
+          -136.597354,
+          66.454461
         ]
       },
       "properties": {
@@ -2606,6 +2480,6 @@
       }
     }
   ],
-  "generated": "2026-07-16T18:06:00.559Z",
-  "totalEvents": 124
+  "generated": "2026-07-16T19:47:29.163Z",
+  "totalEvents": 118
 }

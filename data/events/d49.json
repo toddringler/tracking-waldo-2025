@@ -12,8 +12,8 @@
     },
     {
       "type": "sighting",
-      "lat": 59.334831,
-      "lon": -135.56773,
+      "lat": 59.717872,
+      "lon": -135.044863,
       "title": "Welcome to Alaska, White Pass",
       "thought": "Welcome to Alaska — for real this time. The gateway to the Klondike.",
       "mood": "optimistic",
@@ -22,13 +22,13 @@
     },
     {
       "type": "sighting",
-      "lat": 59.334831,
-      "lon": -135.56773,
-      "title": "Grizzly on Fish Creek",
-      "thought": "A grizzly on Fish Creek coming straight at the lens — that's a good use of a telephoto.",
+      "lat": 59.335263,
+      "lon": -135.568901,
+      "title": "Grizzly on the Chilkoot River, AK",
+      "thought": "A grizzly on the Chilkoot coming straight at the lens — that's a good use of a telephoto.",
       "mood": "optimistic",
       "photoFilename": "44096EEB-93E2-4637-B255-073F254E33F9.JPG",
-      "photoCaption": "A soaking wet grizzly bear strides along the rocks of Fish Creek near Hyder, heading straight for the camera."
+      "photoCaption": "A soaking wet grizzly bear strides along the rocks of the Chilkoot River near Haines, AK, heading straight for the camera."
     }
   ]
 }

@@ -4,11 +4,13 @@
   "events": [
     {
       "type": "camp",
-      "lat": 61.679228,
-      "lon": -139.757366,
-      "title": "Clearwater Camp, YT",
-      "thought": "End of day fifty-two. Yukon highlands.",
-      "mood": "content"
+      "lat": 61.678567,
+      "lon": -139.749793,
+      "title": "Donjek River Camp, YT",
+      "thought": "Camped on a braided glacier bar in the Yukon — blue sky, no fences, just mountains.",
+      "mood": "optimistic",
+      "photoFilename": "9EECE308-F213-49C1-A4C0-F87FE2F678F7.JPG",
+      "photoCaption": "Waldo fully deployed on the Donjek River bar, snow-capped peaks of the St. Elias Range looming behind."
     },
     {
       "type": "sighting",

@@ -3,17 +3,9 @@
   "date": "2025-08-15",
   "events": [
     {
-      "type": "camp",
-      "lat": 55.909,
-      "lon": -130.027922,
-      "title": "Moose Pond, Hyder, AK",
-      "thought": "End of day forty-five. Hyder — the friendliest ghost town in Alaska.",
-      "mood": "content"
-    },
-    {
       "type": "sighting",
-      "lat": 55.909,
-      "lon": -130.027922,
+      "lat": 55.911973,
+      "lon": -130.021732,
       "title": "Bear on Fish Creek, Hyder",
       "thought": "Fish Creek delivers — a bear with a salmon in its mouth, ten feet away.",
       "mood": "optimistic",

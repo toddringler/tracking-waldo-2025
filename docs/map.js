@@ -105,7 +105,12 @@ async function onMapLoad() {
 // Add route line layer
 // ---------------------------------------------------------------------------
 function addRouteLayer(data) {
-  map.addSource('route', { type: 'geojson', data });
+  map.addSource('route', {
+    type: 'geojson',
+    data,
+    tolerance: 1.5,
+    buffer: 0,
+  });
 
   // Route glow (wide, dim)
   map.addLayer({
@@ -472,28 +477,7 @@ async function fetchJSON(url) {
 
 
 async function loadRouteData() {
-  const manifest = await fetchJSON('route-files.json');
-  const routeFiles = Array.isArray(manifest?.tracks)
-    ? manifest.tracks.map(track => track.geojson).filter(Boolean)
-    : [];
-
-  if (routeFiles.length === 0) {
-    throw new Error('route-files.json did not include any track files.');
-  }
-
-  const settled = await Promise.allSettled(routeFiles.map(file => fetchJSON(file)));
-  const collections = settled
-    .filter(result => result.status === 'fulfilled')
-    .map(result => result.value);
-
-  if (collections.length === 0) {
-    throw new Error('No route GeoJSON files could be loaded.');
-  }
-
-  return {
-    type: 'FeatureCollection',
-    features: collections.flatMap(collection => collection.features || []),
-  };
+  return fetchJSON('routes.geojson');
 }
 
 function hideLoading() {

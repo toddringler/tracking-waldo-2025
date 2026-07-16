@@ -55,6 +55,47 @@ function main() {
     console.log('  Synced: data/events/photos → docs/events/photos');
   }
 
+  // Merge all per-day route GeoJSON files into a single file for fast loading.
+  // Coordinates are rounded to 5 decimal places (~1 m precision) to reduce size.
+  const routesDir = path.join(DOCS_DIR, 'routes');
+  const mergedRoutesFile = path.join(DOCS_DIR, 'routes.geojson');
+  if (fs.existsSync(routesDir)) {
+    const routeFiles = fs.readdirSync(routesDir)
+      .filter(f => f.endsWith('.geojson'))
+      .sort()
+      .map(f => path.join(routesDir, f));
+
+    const merged = { type: 'FeatureCollection', features: [] };
+    for (const file of routeFiles) {
+      try {
+        const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+        for (const feat of (data.features || [])) {
+          const geom = feat.geometry;
+          if (geom && geom.type === 'LineString') {
+            geom.coordinates = geom.coordinates.map(c => [
+              Math.round(c[0] * 1e5) / 1e5,
+              Math.round(c[1] * 1e5) / 1e5,
+            ]);
+          } else if (geom && geom.type === 'MultiLineString') {
+            geom.coordinates = geom.coordinates.map(seg =>
+              seg.map(c => [
+                Math.round(c[0] * 1e5) / 1e5,
+                Math.round(c[1] * 1e5) / 1e5,
+              ])
+            );
+          }
+          merged.features.push(feat);
+        }
+      } catch (e) {
+        console.warn(`  WARN: Could not merge ${path.basename(file)}: ${e.message}`);
+      }
+    }
+
+    fs.writeFileSync(mergedRoutesFile, JSON.stringify(merged));
+    const sizeKb = Math.round(fs.statSync(mergedRoutesFile).size / 1024);
+    console.log(`  Built: docs/routes.geojson (${merged.features.length} features, ${sizeKb.toLocaleString()} KB)`);
+  }
+
   // Write a .nojekyll file so GitHub Pages doesn't try to process the files
   const nojekyll = path.join(DOCS_DIR, '.nojekyll');
   if (!fs.existsSync(nojekyll)) {

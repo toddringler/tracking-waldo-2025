@@ -1,6 +1,2611 @@
 {
   "type": "FeatureCollection",
-  "features": [],
-  "generated": "2026-07-16T03:00:08.385Z",
-  "totalEvents": 0
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.601397,
+          41.615082
+        ]
+      },
+      "properties": {
+        "day": 1,
+        "date": "2025-07-02",
+        "type": "camp",
+        "title": "Slider's Camp, PA",
+        "thought": "End of day one.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.897675,
+          41.107475
+        ]
+      },
+      "properties": {
+        "day": 1,
+        "date": "2025-07-02",
+        "type": "incident",
+        "title": "Undercarriage Inspection, PA",
+        "thought": "Day one and already wondering if the load is too much — that bump stop is not resting on the frame, but it is close.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "4C47C8CE-99AD-4897-9268-B88E3219B318_1_102_o.jpeg",
+        "photoCaption": "Under-vehicle inspection on day one: Not much clearance on the bump stop."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.831524,
+          43.303196
+        ]
+      },
+      "properties": {
+        "day": 2,
+        "date": "2025-07-03",
+        "type": "camp",
+        "title": "East Port Bay Road, Wolcott, NY",
+        "thought": "End of day two. Camped near Wolcott.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.831558,
+          43.303191
+        ]
+      },
+      "properties": {
+        "day": 3,
+        "date": "2025-07-04",
+        "type": "camp",
+        "title": "Roney Road, Wolcott, NY",
+        "thought": "End of day three.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.908699,
+          44.163855
+        ]
+      },
+      "properties": {
+        "day": 4,
+        "date": "2025-07-05",
+        "type": "camp",
+        "title": "Adjala-Tosorontio, ON, Canada",
+        "thought": "End of day four. Into Canada!",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.091592,
+          44.894552
+        ]
+      },
+      "properties": {
+        "day": 5,
+        "date": "2025-07-06",
+        "type": "camp",
+        "title": "Neyaashiinigmiing Reserve, ON, Canada",
+        "thought": "End of day five.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.96072,
+          44.95631
+        ]
+      },
+      "properties": {
+        "day": 5,
+        "date": "2025-07-06",
+        "type": "sighting",
+        "title": "Lighthouse on Georgian Bay",
+        "thought": "This old lighthouse has been watching over Georgian Bay long before I came through.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "71D20F0A-A0D2-45BC-ABA8-B15B94529B80_1_102_o.jpeg",
+        "photoCaption": "A weathered red-capped lighthouse stands sentinel over the grey waters of Georgian Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.948544,
+          45.667302
+        ]
+      },
+      "properties": {
+        "day": 6,
+        "date": "2025-07-07",
+        "type": "camp",
+        "title": "Gauthier's Road, Assiginack, ON, Canada",
+        "thought": "End of day six.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.495392,
+          45.208817
+        ]
+      },
+      "properties": {
+        "day": 6,
+        "date": "2025-07-07",
+        "type": "sighting",
+        "title": "Bruce Peninsula National Park",
+        "thought": "Into Bruce Peninsula National Park — one of Canada's most dramatic landscapes.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "63705E86-11B0-4E5B-97AD-AB76C60F5005_1_105_c.jpeg",
+        "photoCaption": "Parks Canada entrance sign for Bruce Peninsula National Park of Canada."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4877,
+          45.23848
+        ]
+      },
+      "properties": {
+        "day": 6,
+        "date": "2025-07-07",
+        "type": "sighting",
+        "title": "Niagara Escarpment Cliffs, Bruce Peninsula",
+        "thought": "These sheer dolomite cliffs over Georgian Bay might be the most dramatic thing I've seen so far on this trip.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "9168B2F0-E0B6-40D4-9D84-59D78EAD5535_1_102_o.jpeg",
+        "photoCaption": "Sheer dolomite cliffs of Bruce Peninsula drop into the turquoise waters of Georgian Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66352,
+          45.25785
+        ]
+      },
+      "properties": {
+        "day": 6,
+        "date": "2025-07-07",
+        "type": "ferry",
+        "title": "Chi-Cheemaun Ferry, Tobermory",
+        "thought": "Boarding the Chi-Cheemaun to cross Georgian Bay — the 'Big Canoe' lives up to its name.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "2538DABB-B453-4223-BAA2-7425C0666D94_1_105_c.jpeg",
+        "photoCaption": "The Chi-Cheemaun Ontario ferry, adorned with Indigenous artwork, prepares to cross Georgian Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.709185,
+          46.966924
+        ]
+      },
+      "properties": {
+        "day": 7,
+        "date": "2025-07-08",
+        "type": "camp",
+        "title": "Black Creek, ON, Canada",
+        "thought": "Screen room out — home in the boreal where mosquitoes rule.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "5EC4E542-BC13-4CD1-9830-82E92A87447B_1_102_o.jpeg",
+        "photoCaption": "Settled in for the night, screen room is the Navigator's first line of defense."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.835513,
+          47.750947
+        ]
+      },
+      "properties": {
+        "day": 8,
+        "date": "2025-07-09",
+        "type": "camp",
+        "title": "Rabbit Blanket Lake, ON, Canada",
+        "thought": "End of day eight.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.90113433902003,
+          47.79416569524852
+        ]
+      },
+      "properties": {
+        "day": 8,
+        "date": "2025-07-09",
+        "type": "sighting",
+        "title": "Foggy Shoreline, Lake Superior Provincial Park",
+        "thought": "Lake Superior generates its own weather — fog rolling in mid-afternoon.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "42033A32-F30D-4BF7-BB99-5AE6E3F10079_1_102_o.jpeg",
+        "photoCaption": "Fog drifts across a rocky Lake Superior shoreline, conifers dissolving into grey."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.294708,
+          48.590923
+        ]
+      },
+      "properties": {
+        "day": 9,
+        "date": "2025-07-10",
+        "type": "camp",
+        "title": "Highway 35, ON, Canada",
+        "thought": "End of day nine.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.94817,
+          48.29781
+        ]
+      },
+      "properties": {
+        "day": 9,
+        "date": "2025-07-10",
+        "type": "sighting",
+        "title": "Boreal Lake, Lake Superior PP",
+        "thought": "The boreal has a way of making every lake look like the only lake in the world.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "21B262B6-1FFF-4769-9B9B-36E022680E99_1_105_c.jpeg",
+        "photoCaption": "Mirror-calm boreal lake with lone island, surrounded by black spruce and reflected sky."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28845,
+          48.60565
+        ]
+      },
+      "properties": {
+        "day": 9,
+        "date": "2025-07-10",
+        "type": "sighting",
+        "title": "Pukaskwa National Park",
+        "thought": "Pukaskwa — one of Canada's least-visited national parks, and wild as they come.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "F53674E0-0D51-4AC5-A5DD-84296EF7F79B_1_105_c.jpeg",
+        "photoCaption": "Entrance sign at Pukaskwa National Park of Canada, gateway to wild Lake Superior country."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3004,
+          48.59034
+        ]
+      },
+      "properties": {
+        "day": 9,
+        "date": "2025-07-10",
+        "type": "sighting",
+        "title": "Driftwood Beach, Lake Superior",
+        "thought": "Lake Superior's shores are decorated with years of driftwood — raw and beautiful.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "1A540DA7-123A-47C3-B24E-65FFA3B190C3_1_102_o.jpeg",
+        "photoCaption": "Driftwood-strewn sandy beach on the shores of Lake Superior near Pukaskwa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.806609,
+          48.371531
+        ]
+      },
+      "properties": {
+        "day": 10,
+        "date": "2025-07-11",
+        "type": "camp",
+        "title": "Sleeping Giant Provincial Park, ON, Canada",
+        "thought": "End of day ten.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.402047,
+          48.58374
+        ]
+      },
+      "properties": {
+        "day": 11,
+        "date": "2025-07-12",
+        "type": "camp",
+        "title": "Arnold's Campground, International Falls, MN",
+        "thought": "End of day eleven.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9175,
+          48.32637
+        ]
+      },
+      "properties": {
+        "day": 11,
+        "date": "2025-07-12",
+        "type": "sighting",
+        "title": "Sleeping Giant Provincial Park Cliffs",
+        "thought": "The Sleeping Giant's cliffs drop straight into Superior like the edge of the world.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "09915C3B-9183-4BBD-BC69-D270A2BC32EC_1_102_o.jpeg",
+        "photoCaption": "Sheer cliffs of Sleeping Giant Provincial Park plunge into Lake Superior, a small island visible through the haze."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.05129,
+          48.04544
+        ]
+      },
+      "properties": {
+        "day": 12,
+        "date": "2025-07-13",
+        "type": "camp",
+        "title": "Grahams Island State Park, Poplar Grove, ND",
+        "thought": "End of day twelve.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.262241,
+          46.827367
+        ]
+      },
+      "properties": {
+        "day": 13,
+        "date": "2025-07-14",
+        "type": "camp",
+        "title": "Svenson Creek, Prairie County, MT",
+        "thought": "End of day thirteen. Deep in the Montana plains.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.282145,
+          46.82323
+        ]
+      },
+      "properties": {
+        "day": 13,
+        "date": "2025-07-14",
+        "type": "sighting",
+        "title": "Montana Badlands Road",
+        "thought": "The road just keeps going — Montana plays by its own scale.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "90106A08-BC3D-4FFD-BC0A-DC7C30D19EE5_1_102_o.jpeg",
+        "photoCaption": "A gravel track arrow-straight through the Montana badlands, mesa rising in the distance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.579098,
+          45.512772
+        ]
+      },
+      "properties": {
+        "day": 14,
+        "date": "2025-07-15",
+        "type": "camp",
+        "title": "Pine Creek Road, Livingston, MT",
+        "thought": "End of day fourteen. Livingston with the Absarokas on the horizon.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.99125,
+          46.857327
+        ]
+      },
+      "properties": {
+        "day": 15,
+        "date": "2025-07-16",
+        "type": "camp",
+        "title": "Missoula, MT",
+        "thought": "End of day fifteen. Missoula earns its reputation.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.991165,
+          46.857322
+        ]
+      },
+      "properties": {
+        "day": 16,
+        "date": "2025-07-17",
+        "type": "camp",
+        "title": "Missoula, MT",
+        "thought": "A rest day in Missoula — no complaints.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.318184,
+          46.338354
+        ]
+      },
+      "properties": {
+        "day": 17,
+        "date": "2025-07-18",
+        "type": "camp",
+        "title": "Lochsa River, ID",
+        "thought": "End of day seventeen. The Lochsa is running clear and cold.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.01663,
+          46.83566
+        ]
+      },
+      "properties": {
+        "day": 17,
+        "date": "2025-07-18",
+        "type": "incident",
+        "title": "Bump Stop Inspection, Missoula, MT",
+        "thought": "Checking the Deaver bump stop — everything looks good but it warranted a stop.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "C412A6DB-FAA4-4C80-A6EE-2A3B8C69CE63_1_102_o.jpeg",
+        "photoCaption": "Under-truck inspection near Missoula: Deaver bump stop and suspension components."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.31324,
+          46.33626
+        ]
+      },
+      "properties": {
+        "day": 17,
+        "date": "2025-07-18",
+        "type": "sighting",
+        "title": "Lochsa River, ID",
+        "thought": "The Lochsa runs cold and clear — this is what wild rivers look like.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "A1F43B5A-5819-483B-93CB-2B52D23D2DF7_1_102_o.jpeg",
+        "photoCaption": "The crystal-clear Lochsa River tumbles over boulders through Idaho's dense conifer forest."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.347542,
+          46.50318
+        ]
+      },
+      "properties": {
+        "day": 18,
+        "date": "2025-07-19",
+        "type": "camp",
+        "title": "Pink House Campground, Clearwater County, ID",
+        "thought": "End of day eighteen. Clearwater country.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.315,
+          46.33764
+        ]
+      },
+      "properties": {
+        "day": 18,
+        "date": "2025-07-19",
+        "type": "sighting",
+        "title": "Cutthroat on the Lochsa",
+        "thought": "Cutthroat on the Lochsa — couldn't resist making a few casts.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "5A38AD5D-6D5F-4BA2-B473-0BE2398A5300_1_102_o.jpeg",
+        "photoCaption": "A fat cutthroat trout from the Lochsa River, hooked and ready to go back."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.843876,
+          46.26002
+        ]
+      },
+      "properties": {
+        "day": 19,
+        "date": "2025-07-20",
+        "type": "camp",
+        "title": "Burbank, WA",
+        "thought": "End of day nineteen. Into Washington.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.43639,
+          46.49078
+        ]
+      },
+      "properties": {
+        "day": 19,
+        "date": "2025-07-20",
+        "type": "sighting",
+        "title": "Clearwater River Fly Shop, ID",
+        "thought": "A proper Clearwater fly shop — Burkheimer rods and all. Hard to drive past.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "01089C3E-879C-4C44-AC8F-86273D87EE7F_1_102_o.jpeg",
+        "photoCaption": "A classic roadside fly shop on the Clearwater River, stocked with the finest spey tackle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.578169,
+          46.709926
+        ]
+      },
+      "properties": {
+        "day": 20,
+        "date": "2025-07-21",
+        "type": "camp",
+        "title": "Ice Harbor, WA",
+        "thought": "Awning out, RTT up, forest quiet — this is exactly why we do this.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "7FE60AC5-AA45-47B9-942B-7824BB490FED_1_102_o.jpeg",
+        "photoCaption": "Waldo fully deployed under the conifers — awning extended, kitchen set up, RTT ready."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.89001,
+          47.365224
+        ]
+      },
+      "properties": {
+        "day": 21,
+        "date": "2025-07-22",
+        "type": "camp",
+        "title": "Skunk Creek, Grays Harbor County, WA",
+        "thought": "End of day twenty-one. Deep in the Olympic Peninsula.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.57746,
+          46.71713
+        ]
+      },
+      "properties": {
+        "day": 21,
+        "date": "2025-07-22",
+        "type": "sighting",
+        "title": "Mount Rainier National Park Entrance",
+        "thought": "Through the gates of Rainier — the mountain gods are watching.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "26D77E13-9720-4C2A-B85A-3854AD8E6D6B_1_102_o.jpeg",
+        "photoCaption": "Timber arch entrance gate to Mount Rainier National Park, firs dripping green behind."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51605,
+          46.87416
+        ]
+      },
+      "properties": {
+        "day": 21,
+        "date": "2025-07-22",
+        "type": "sighting",
+        "title": "Alpine Valley, Mount Rainier NP",
+        "thought": "That valley view from Rainier's flanks is the kind of thing that resets everything.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "38A6B790-D48A-4880-8A6A-A830422034D3_1_105_c.jpeg",
+        "photoCaption": "Deep alpine valley on the flanks of Mount Rainier, winding road visible far below."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.860188,
+          47.462183
+        ]
+      },
+      "properties": {
+        "day": 22,
+        "date": "2025-07-23",
+        "type": "camp",
+        "title": "Willaby Campground, WA",
+        "thought": "End of day twenty-two. Lake Quinault is extraordinary.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.89006,
+          47.365295
+        ]
+      },
+      "properties": {
+        "day": 22,
+        "date": "2025-07-23",
+        "type": "sighting",
+        "title": "Quinault Rain Forest, Olympic Peninsula",
+        "thought": "The Quinault rainforest doesn't let you rush — it's too alive for that.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "E39086FB-ED97-42A5-890E-D47CF79AB9B6_1_102_o.jpeg",
+        "photoCaption": "Fog-filled old-growth rainforest near Quinault, moss draped over every surface."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.860106,
+          47.462113
+        ]
+      },
+      "properties": {
+        "day": 23,
+        "date": "2025-07-24",
+        "type": "camp",
+        "title": "Willaby Campground, WA",
+        "thought": "End of day twenty-three. Another night at Willaby.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.86009,
+          47.462155
+        ]
+      },
+      "properties": {
+        "day": 23,
+        "date": "2025-07-24",
+        "type": "sighting",
+        "title": "Lake Quinault Sunset",
+        "thought": "Lake Quinault at sunset — I could stay here for a week.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "248EC49C-E9A4-4AFF-8A47-1D21DAC3E11B_1_105_c.jpeg",
+        "photoCaption": "Golden sunset over Lake Quinault, silhouetted firs and driftwood framing the calm water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.859931,
+          47.462048
+        ]
+      },
+      "properties": {
+        "day": 24,
+        "date": "2025-07-25",
+        "type": "camp",
+        "title": "Willaby Campground, WA",
+        "thought": "End of day twenty-four. Another night at Quinault.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.859904,
+          47.461973
+        ]
+      },
+      "properties": {
+        "day": 25,
+        "date": "2025-07-26",
+        "type": "camp",
+        "title": "Willaby Campground, WA",
+        "thought": "End of day twenty-five. Still at Willaby — no complaints.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.73188,
+          47.45819
+        ]
+      },
+      "properties": {
+        "day": 25,
+        "date": "2025-07-26",
+        "type": "sighting",
+        "title": "Colonel Bob Wilderness Sign",
+        "thought": "The Colonel Bob Wilderness — where the old-growth still holds court.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "B182AF2F-2624-4C3C-840E-5A78FE4C954B.JPG",
+        "photoCaption": "Carved wooden boundary sign for Colonel Bob Wilderness, Olympic National Forest."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.74631,
+          47.48847
+        ]
+      },
+      "properties": {
+        "day": 25,
+        "date": "2025-07-26",
+        "type": "sighting",
+        "title": "Summit of Colonel Bob",
+        "thought": "Summit of Colonel Bob — 360 degrees of Olympic Peninsula wilderness.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "DA74959D-3A10-42DE-8B6E-B7BECF7DC8D5.JPG",
+        "photoCaption": "Two hikers on the rocky summit of Colonel Bob, Olympic Mountains spreading to every horizon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.638204,
+          47.921104
+        ]
+      },
+      "properties": {
+        "day": 26,
+        "date": "2025-07-27",
+        "type": "camp",
+        "title": "Mora Camp, Olympic NP, WA",
+        "thought": "End of day twenty-six. The Hoh coast is something else.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.39217,
+          47.65342
+        ]
+      },
+      "properties": {
+        "day": 26,
+        "date": "2025-07-27",
+        "type": "sighting",
+        "title": "Olympic Coast Tide Flats",
+        "thought": "Low tide on the Olympic coast — getting low to see what the sea reveals.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "AF4640D9-3449-47D0-B3A0-16A54A4A9D97.JPG",
+        "photoCaption": "Photographer flat on the Olympic tide flats, telephoto lens trained on sea life below."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.39217,
+          47.65342
+        ]
+      },
+      "properties": {
+        "day": 26,
+        "date": "2025-07-27",
+        "type": "sighting",
+        "title": "Tide Pool Life, Olympic Coast",
+        "thought": "The tide pools on the Olympic coast are a whole universe at knee height.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "16076FE5-851E-45EA-BA34-1FAB23636498.JPG",
+        "photoCaption": "Macro shot of a purple sea urchin and sea star in a crystal-clear Olympic Peninsula tide pool."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.608619,
+          47.917317
+        ]
+      },
+      "properties": {
+        "day": 27,
+        "date": "2025-07-28",
+        "type": "camp",
+        "title": "Mora Campground, Olympic NP, WA",
+        "thought": "End of day twenty-seven. Quillayute River at the doorstep.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.427076,
+          48.037269
+        ]
+      },
+      "properties": {
+        "day": 28,
+        "date": "2025-07-29",
+        "type": "camp",
+        "title": "Hurricane Ridge, Olympic NP, WA",
+        "thought": "End of day twenty-eight. High above the Peninsula.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.300167,
+          50.032081
+        ]
+      },
+      "properties": {
+        "day": 29,
+        "date": "2025-07-30",
+        "type": "camp",
+        "title": "Quinsam Campground, Campbell River, BC",
+        "thought": "End of day twenty-nine. Into BC via ferry.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4306,
+          48.12195
+        ]
+      },
+      "properties": {
+        "day": 29,
+        "date": "2025-07-30",
+        "type": "ferry",
+        "title": "MV Coho Ferry, Port Angeles",
+        "thought": "Aboard the Coho — bound for Victoria and the northern miles ahead.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "E0B453A2-A721-4E39-BF0D-E70420A6B26A.JPG",
+        "photoCaption": "Flags of Canada, the US, and Black Ball Line fly as the MV Coho departs Port Angeles for Victoria, BC."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.300216,
+          50.03223
+        ]
+      },
+      "properties": {
+        "day": 30,
+        "date": "2025-07-31",
+        "type": "camp",
+        "title": "Campbell River, BC",
+        "thought": "End of day thirty. Island highway north.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.175808,
+          50.612288
+        ]
+      },
+      "properties": {
+        "day": 31,
+        "date": "2025-08-01",
+        "type": "camp",
+        "title": "Telegraph Cove, BC",
+        "thought": "End of day thirty-one. Telegraph Cove is worth every kilometre.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.25365,
+          50.40968
+        ]
+      },
+      "properties": {
+        "day": 31,
+        "date": "2025-08-01",
+        "type": "sighting",
+        "title": "BC Logging Truck, Vancouver Island",
+        "thought": "Logging trucks own the roads up here — this one filled the whole lane.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "6953BB92-8064-461A-A602-A62C5DB79874.JPG",
+        "photoCaption": "A loaded BC logging truck fills the narrow forest road ahead, Waldo's CarPlay tracking every twist."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.175886,
+          50.612275
+        ]
+      },
+      "properties": {
+        "day": 32,
+        "date": "2025-08-02",
+        "type": "camp",
+        "title": "Blackfish Sound, BC",
+        "thought": "End of day thirty-two. Orca country.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.175886,
+          50.612275
+        ]
+      },
+      "properties": {
+        "day": 32,
+        "date": "2025-08-02",
+        "type": "sighting",
+        "title": "Orca in Blackfish Sound",
+        "thought": "An orca surfacing in Johnstone Strait — this is why the route goes here.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "00BCA194-87D3-4501-A651-4873EFEE61DD.JPG",
+        "photoCaption": "An orca surfaces in Blackfish Sound, blow spray catching the light, forested BC coast behind."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.904755,
+          50.336318
+        ]
+      },
+      "properties": {
+        "day": 33,
+        "date": "2025-08-03",
+        "type": "camp",
+        "title": "Side Bay, BC",
+        "thought": "End of day thirty-three. Remote northern Vancouver Island.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.90472,
+          50.33633
+        ]
+      },
+      "properties": {
+        "day": 33,
+        "date": "2025-08-03",
+        "type": "sighting",
+        "title": "View from the RTT, Side Bay",
+        "thought": "The view from the RTT at Side Bay — this is what the hard driving is for.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "56A64592-C573-46DC-B1F9-0F6F62BAA572.JPG",
+        "photoCaption": "View from inside the rooftop tent at Side Bay, BC — a tidal inlet and snow-capped peaks framed by the open flap."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.90467,
+          50.33639
+        ]
+      },
+      "properties": {
+        "day": 33,
+        "date": "2025-08-03",
+        "type": "sighting",
+        "title": "Waldo on Side Bay Beach",
+        "thought": "Spotting scope out on the Side Bay beach — waiting to see what comes through the channel.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "C8F3802B-5298-4618-88FB-C30BE75C556A.JPG",
+        "photoCaption": "Waldo parked on the gravel beach at Side Bay, BC, spotting scope deployed and scanning the water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.434346,
+          50.532066
+        ]
+      },
+      "properties": {
+        "day": 34,
+        "date": "2025-08-04",
+        "type": "camp",
+        "title": "Side Bay, BC",
+        "thought": "End of day thirty-four. Fog and quiet.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.434346,
+          50.532066
+        ]
+      },
+      "properties": {
+        "day": 34,
+        "date": "2025-08-04",
+        "type": "sighting",
+        "title": "Rocky Shore, Side Bay",
+        "thought": "Low tide at Side Bay — every rock shows something worth looking at.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "36E01A63-992D-47C6-B5EB-FBBEB0C8EE80.JPG",
+        "photoCaption": "A lone figure walks the kelp-strewn rocky shore at Side Bay, BC, mountains rising across the inlet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.239561,
+          50.682367
+        ]
+      },
+      "properties": {
+        "day": 35,
+        "date": "2025-08-05",
+        "type": "camp",
+        "title": "San Josef, BC",
+        "thought": "End of day thirty-five. The end of the road on northern Vancouver Island.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.239595,
+          50.682423
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2025-08-06",
+        "type": "camp",
+        "title": "San Josef Bay Campsite, BC",
+        "thought": "End of day thirty-six. Beach camp at San Josef Bay.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.239595,
+          50.682423
+        ]
+      },
+      "properties": {
+        "day": 36,
+        "date": "2025-08-06",
+        "type": "camp",
+        "title": "Waldo at San Josef Bay Campsite",
+        "thought": "Waldo earned every speck of that mud — RTT up, awning out, San Josef Bay delivered.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "6C7B3FD6-328B-4CF2-AB2E-CCB663E61C98.JPG",
+        "photoCaption": "Waldo arrives at San Josef Bay campsite, caked in mud, RTT up and awning deployed in the BC rainforest."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.484401,
+          50.691501
+        ]
+      },
+      "properties": {
+        "day": 37,
+        "date": "2025-08-07",
+        "type": "camp",
+        "title": "Raft Cove, BC",
+        "thought": "End of day thirty-seven. Raft Cove delivers.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.24582,
+          50.59145
+        ]
+      },
+      "properties": {
+        "day": 37,
+        "date": "2025-08-07",
+        "type": "sighting",
+        "title": "Rocky BC Outer Coast",
+        "thought": "Scrambling the rocky outcrops at the tip of Vancouver Island — this coastline is otherworldly.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "AE9A567A-8AF1-4702-A3E7-A23D4793D343.JPG",
+        "photoCaption": "A hiker surveys the island-studded BC outer coast from the rocky shore near San Josef Bay."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.294676,
+          54.315935
+        ]
+      },
+      "properties": {
+        "day": 38,
+        "date": "2025-08-08",
+        "type": "camp",
+        "title": "Prince Rupert, BC",
+        "thought": "End of day thirty-eight. Prince Rupert via BC Ferries.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.45601,
+          50.72547
+        ]
+      },
+      "properties": {
+        "day": 38,
+        "date": "2025-08-08",
+        "type": "ferry",
+        "title": "BC Ferries, Port Hardy to Prince Rupert",
+        "thought": "Boarding the overnight ferry to Prince Rupert — Waldo goes below decks for the first time.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "C3250877-6C25-4457-B4C1-327942CC7029.JPG",
+        "photoCaption": "The bow doors open on the BC Ferries vessel at Port Hardy, loading for the overnight run to Prince Rupert."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.553264,
+          54.509952
+        ]
+      },
+      "properties": {
+        "day": 39,
+        "date": "2025-08-09",
+        "type": "camp",
+        "title": "Motz Road, BC",
+        "thought": "End of day thirty-nine. Heading inland from the coast.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.553252,
+          54.509967
+        ]
+      },
+      "properties": {
+        "day": 40,
+        "date": "2025-08-10",
+        "type": "camp",
+        "title": "Lavergne Road, BC",
+        "thought": "End of day forty. Skeena country.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.023503,
+          55.590885
+        ]
+      },
+      "properties": {
+        "day": 41,
+        "date": "2025-08-11",
+        "type": "camp",
+        "title": "Kispiox, BC",
+        "thought": "End of day forty-one. Kispiox steelhead water.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.023497,
+          55.590855
+        ]
+      },
+      "properties": {
+        "day": 41,
+        "date": "2025-08-11",
+        "type": "camp",
+        "title": "Dawn Watch from the RTT, Kispiox",
+        "thought": "Scanning from the RTT at first light — the wildlife comes out when the camp stays quiet.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "IMG_3989.jpeg",
+        "photoCaption": "Photographer in the RTT at Kispiox, camera trained on a blue-hour lake through the tent window."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.837753,
+          55.841513
+        ]
+      },
+      "properties": {
+        "day": 42,
+        "date": "2025-08-12",
+        "type": "camp",
+        "title": "Jigsaw Lake Recreation Site, BC",
+        "thought": "End of day forty-two. Tucked in at Jigsaw Lake.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.837753,
+          55.841513
+        ]
+      },
+      "properties": {
+        "day": 42,
+        "date": "2025-08-12",
+        "type": "camp",
+        "title": "Jigsaw Lake at Dawn",
+        "thought": "Jigsaw Lake at dawn — camp didn't get much quieter than this.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "1F40317B-0270-4D1E-B72F-0773E05E8A0D.JPG",
+        "photoCaption": "Waldo perched at the edge of a mirror-calm Jigsaw Lake, boreal spruce and birch reflected in still water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.051453,
+          56.169174
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2025-08-13",
+        "type": "camp",
+        "title": "Salmon Glacier Viewpoint, Stewart, BC",
+        "thought": "End of day forty-three. The glacier looms above.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.837753,
+          55.841575
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2025-08-13",
+        "type": "camp",
+        "title": "Jigsaw Lake, BC",
+        "thought": "Jigsaw Lake — the kind of spot that makes you recalibrate what 'beautiful' means.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "CBB797CD-A37F-40B3-B549-C08852312F2E.JPG",
+        "photoCaption": "Waldo lakeside at Jigsaw Lake Recreation Site, BC, as a photographer scans the water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.27628,
+          56.08215
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2025-08-13",
+        "type": "sighting",
+        "title": "Salmon Glacier Summit View",
+        "thought": "The Salmon Glacier doesn't prepare you — nothing does. It just sits there, massive and ancient.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "IMG_4033.jpeg",
+        "photoCaption": "The Salmon Glacier pours through its BC valley from the summit viewpoint near Stewart, an enormous river of ancient ice."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.05573,
+          56.1806
+        ]
+      },
+      "properties": {
+        "day": 43,
+        "date": "2025-08-13",
+        "type": "sighting",
+        "title": "Waldo at Salmon Glacier Viewpoint",
+        "thought": "Waldo at the Salmon Glacier viewpoint — the scale of it doesn't register until you're standing there.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "6B24E899-3C8C-4167-87A4-F68E29667955.JPG",
+        "photoCaption": "Waldo parked at the Salmon Glacier summit viewpoint, the massive blue-white glacier filling the valley below."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.028385,
+          55.909399
+        ]
+      },
+      "properties": {
+        "day": 44,
+        "date": "2025-08-14",
+        "type": "camp",
+        "title": "Eagle Point, Hyder, AK",
+        "thought": "End of day forty-four. Crossed into Alaska — barely.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.05089,
+          56.16929
+        ]
+      },
+      "properties": {
+        "day": 44,
+        "date": "2025-08-14",
+        "type": "camp",
+        "title": "Glacier Viewpoint Camp",
+        "thought": "The Salmon Glacier viewpoint draws its people — camped here with a collection of wanderers.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "954D60C4-2532-4FFF-AD4E-68C76C0AE204.JPG",
+        "photoCaption": "Overland rigs, campers and expedition vehicles parked for the night at the Salmon Glacier viewpoint at dusk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.9951,
+          55.93589
+        ]
+      },
+      "properties": {
+        "day": 44,
+        "date": "2025-08-14",
+        "type": "sighting",
+        "title": "Shrimp Tacos, Hyder, AK",
+        "thought": "Shrimp tacos in Hyder — civilization appears in unexpected places.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "7B07CEBD-5696-461C-992A-4FE8A5EAD0B3.JPG",
+        "photoCaption": "Shrimp tacos served on a cedar board in Hyder, AK — a surprisingly excellent restaurant at the end of the road."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.027922,
+          55.909
+        ]
+      },
+      "properties": {
+        "day": 45,
+        "date": "2025-08-15",
+        "type": "camp",
+        "title": "Moose Pond, Hyder, AK",
+        "thought": "End of day forty-five. Hyder — the friendliest ghost town in Alaska.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.027922,
+          55.909
+        ]
+      },
+      "properties": {
+        "day": 45,
+        "date": "2025-08-15",
+        "type": "sighting",
+        "title": "Bear on Fish Creek, Hyder",
+        "thought": "Fish Creek delivers — a bear with a salmon in its mouth, ten feet away.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "3333421F-0298-4A93-A353-CDEA57628AAF.JPG",
+        "photoCaption": "A black bear works a salmon in Fish Creek near Hyder, AK — the salmon run was on."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.027922,
+          55.909
+        ]
+      },
+      "properties": {
+        "day": 45,
+        "date": "2025-08-15",
+        "type": "camp",
+        "title": "Glacial Bar Camp, BC",
+        "thought": "Camped on the glacial bar with fog threading the mountains — this is Waldo in its element.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "82DC014F-CD35-463E-AC82-AA829DFCBB05.JPG",
+        "photoCaption": "Waldo set up on a glacial gravel bar in BC, milky turquoise river in front and fog-wrapped mountains behind."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.1926,
+          57.529649
+        ]
+      },
+      "properties": {
+        "day": 46,
+        "date": "2025-08-16",
+        "type": "camp",
+        "title": "Kinaskan Lake Campground, BC",
+        "thought": "End of day forty-six. Kinaskan Lake glows at dusk.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.106303,
+          59.371855
+        ]
+      },
+      "properties": {
+        "day": 47,
+        "date": "2025-08-17",
+        "type": "camp",
+        "title": "Teslin Lake Campground, YT",
+        "thought": "End of day forty-seven. The Yukon begins.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.91255,
+          60.232283
+        ]
+      },
+      "properties": {
+        "day": 48,
+        "date": "2025-08-18",
+        "type": "camp",
+        "title": "Chilcoot River Campground, YT",
+        "thought": "End of day forty-eight. Chilcoot country.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.91255,
+          60.232283
+        ]
+      },
+      "properties": {
+        "day": 48,
+        "date": "2025-08-18",
+        "type": "sighting",
+        "title": "Yukon Welcome Sign",
+        "thought": "The Yukon sign — stickers from a thousand journeys before ours.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "A450F588-61BD-4BC2-8323-0DB96029C9F8.JPG",
+        "photoCaption": "The Yukon welcome sign covered in travel stickers, its murals depicting the rivers, mountains, and spirit of the territory."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.56773,
+          59.334831
+        ]
+      },
+      "properties": {
+        "day": 49,
+        "date": "2025-08-19",
+        "type": "camp",
+        "title": "Chilcoot River Campground, YT",
+        "thought": "End of day forty-nine. The Chilkoot corridor.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.56773,
+          59.334831
+        ]
+      },
+      "properties": {
+        "day": 49,
+        "date": "2025-08-19",
+        "type": "sighting",
+        "title": "Welcome to Alaska, White Pass",
+        "thought": "Welcome to Alaska — for real this time. The gateway to the Klondike.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "EEAD2739-08C1-4AB7-8121-50B0B28C3B47.JPG",
+        "photoCaption": "Welcome to Alaska and the Gateway to the Klondike — the border sign at White Pass in alpine glory."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.56773,
+          59.334831
+        ]
+      },
+      "properties": {
+        "day": 49,
+        "date": "2025-08-19",
+        "type": "sighting",
+        "title": "Grizzly on Fish Creek",
+        "thought": "A grizzly on Fish Creek coming straight at the lens — that's a good use of a telephoto.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "44096EEB-93E2-4637-B255-073F254E33F9.JPG",
+        "photoCaption": "A soaking wet grizzly bear strides along the rocks of Fish Creek near Hyder, heading straight for the camera."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.567625,
+          59.334786
+        ]
+      },
+      "properties": {
+        "day": 50,
+        "date": "2025-08-20",
+        "type": "camp",
+        "title": "Chilkoot Lake, AK",
+        "thought": "End of day fifty. Halfway to Tuk.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.207692,
+          60.5784
+        ]
+      },
+      "properties": {
+        "day": 51,
+        "date": "2025-08-21",
+        "type": "camp",
+        "title": "Hard Luck Creek, YT",
+        "thought": "End of day fifty-one. The name says it all.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.207692,
+          60.5784
+        ]
+      },
+      "properties": {
+        "day": 51,
+        "date": "2025-08-21",
+        "type": "sighting",
+        "title": "Fireweed and Yukon Peaks",
+        "thought": "Fireweed in August means summer is turning — and the mountains don't care.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "3D4A4582.JPG",
+        "photoCaption": "Fireweed in full bloom frames snow-capped Yukon peaks, summer's last hurrah before the alpine turns gold."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.757366,
+          61.679228
+        ]
+      },
+      "properties": {
+        "day": 52,
+        "date": "2025-08-22",
+        "type": "camp",
+        "title": "Clearwater Camp, YT",
+        "thought": "End of day fifty-two. Yukon highlands.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.22107,
+          60.5758
+        ]
+      },
+      "properties": {
+        "day": 52,
+        "date": "2025-08-22",
+        "type": "sighting",
+        "title": "Kathleen Lake Reflection, YT",
+        "thought": "Kathleen Lake in the Yukon has no right to be this perfect.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "7DBBD82D-7BA3-4AA2-B318-18CE743189F8.JPG",
+        "photoCaption": "Kathleen Lake in perfect reflection — a conical Yukon peak and cirrus sky mirrored in crystal-clear water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.20042,
+          63.165426
+        ]
+      },
+      "properties": {
+        "day": 53,
+        "date": "2025-08-23",
+        "type": "camp",
+        "title": "Clearwater Camp, Southeast Fairbanks, AK",
+        "thought": "End of day fifty-three. Deep in the Alaska interior.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.20042,
+          63.165426
+        ]
+      },
+      "properties": {
+        "day": 53,
+        "date": "2025-08-23",
+        "type": "camp",
+        "title": "Alaska Range Braided River Bar Camp",
+        "thought": "Camped on a braided glacier bar in the Alaska Range — blue sky, no fences, just mountains.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "9EECE308-F213-49C1-A4C0-F87FE2F678F7.JPG",
+        "photoCaption": "Waldo fully deployed on a Yukon/Alaska braided river bar, snow-capped peaks of the Alaska Range looming behind."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.257914,
+          62.529575
+        ]
+      },
+      "properties": {
+        "day": 54,
+        "date": "2025-08-24",
+        "type": "camp",
+        "title": "Wrangell-St. Elias NP, AK",
+        "thought": "End of day fifty-four. Into the biggest national park in the US.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.11607,
+          62.43408
+        ]
+      },
+      "properties": {
+        "day": 54,
+        "date": "2025-08-24",
+        "type": "sighting",
+        "title": "Alpine Tundra Hike, Wrangell-St. Elias",
+        "thought": "Wrangell-St. Elias doesn't mess around — the rocks are serious and the tundra is already turning.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "4A4C1EBF-E9DC-46DC-86E7-F0E390C58694.JPG",
+        "photoCaption": "A hiker climbs through early-fall alpine tundra in Wrangell-St. Elias NP, jagged granite towers looming above the valley."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.475498,
+          63.415418
+        ]
+      },
+      "properties": {
+        "day": 55,
+        "date": "2025-08-25",
+        "type": "camp",
+        "title": "Wrangell-St. Elias NP, AK",
+        "thought": "End of day fifty-five. Back out of the wilderness.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.979664,
+          64.073297
+        ]
+      },
+      "properties": {
+        "day": 56,
+        "date": "2025-08-26",
+        "type": "camp",
+        "title": "Davis Creek, YT",
+        "thought": "End of day fifty-six. Dempster Highway beckons.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.979664,
+          64.073297
+        ]
+      },
+      "properties": {
+        "day": 56,
+        "date": "2025-08-26",
+        "type": "sighting",
+        "title": "Aurora Borealis, Dempster Highway",
+        "thought": "The aurora came out dancing on the Dempster — Waldo had front row seats.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "0D341D27-EDFF-4F44-8162-7A180C39272F.JPG",
+        "photoCaption": "Waldo's rooftop tent silhouetted against a full aurora borealis display over the Dempster Highway, Yukon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.979664,
+          64.073297
+        ]
+      },
+      "properties": {
+        "day": 56,
+        "date": "2025-08-26",
+        "type": "sighting",
+        "title": "Waldo on the Dempster",
+        "thought": "A tiny black speck on the Dempster — Waldo and the Yukon on equal terms.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "EA5FC07D-CCAC-4C24-9AE6-DC2424D55203.JPG",
+        "photoCaption": "Waldo navigates the Dempster Highway across fall tundra in full color, the Yukon's infinite ridgelines receding behind."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.935,
+          64.074
+        ]
+      },
+      "properties": {
+        "day": 56,
+        "date": "2025-08-26",
+        "type": "sighting",
+        "title": "Chicken, Alaska",
+        "thought": "Chicken, Alaska — the rooster and the signpost say it all.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "8C8EE93F-14F6-4669-ABD7-A6E38759EFF8.JPG",
+        "photoCaption": "The famous metal rooster and directional signpost in Chicken, Alaska, pointing to chicken-named places worldwide."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.97983,
+          64.07329
+        ]
+      },
+      "properties": {
+        "day": 56,
+        "date": "2025-08-26",
+        "type": "sighting",
+        "title": "Dempster Ridgeline View",
+        "thought": "Parked on the ridgeline with nothing between us and the horizon for a hundred miles.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "6CDF71CA-6637-4029-8948-2688E709124D.JPG",
+        "photoCaption": "Waldo on a Dempster ridgeline, vast fall-toned Yukon mountains stretching to every horizon under deep blue sky."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.348801,
+          64.383984
+        ]
+      },
+      "properties": {
+        "day": 57,
+        "date": "2025-08-27",
+        "type": "camp",
+        "title": "Dawson City, YT",
+        "thought": "End of day fifty-seven. Dawson City — gold rush ghosts and all.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.43689,
+          64.07004
+        ]
+      },
+      "properties": {
+        "day": 57,
+        "date": "2025-08-27",
+        "type": "ferry",
+        "title": "George Black Cable Ferry, Dawson City",
+        "thought": "The George Black ferry at Dawson City — a cable ferry across the Yukon, running on river current alone.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "1B568F6E-BEC3-4B7C-BF7E-FE99F42FD970.JPG",
+        "photoCaption": "The George Black cable ferry crosses the Yukon River at Dawson City, fall birch turning yellow on the far bank."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.348801,
+          64.383984
+        ]
+      },
+      "properties": {
+        "day": 57,
+        "date": "2025-08-27",
+        "type": "sighting",
+        "title": "Dempster Highway Sign, Dawson City",
+        "thought": "Dempster Highway 5 North — Arctic Ocean 880km. There it is on a sign.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "D15657A7-306E-42E1-AF4F-B1EC56C76E89.JPG",
+        "photoCaption": "Dempster Highway 5 North at Dawson City: Eagle Lodge 363km, Inuvik 735km, Arctic Ocean 880km."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.36207,
+          65.085232
+        ]
+      },
+      "properties": {
+        "day": 58,
+        "date": "2025-08-28",
+        "type": "camp",
+        "title": "Yukon River Camp, YT",
+        "thought": "End of day fifty-eight. The Dempster unwinds north.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -138.35433,
+          64.43654
+        ]
+      },
+      "properties": {
+        "day": 58,
+        "date": "2025-08-28",
+        "type": "sighting",
+        "title": "Tombstone Range from the Ridge",
+        "thought": "Standing above Tombstone Park's valley — those dark spires live rent-free in your head forever.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "F6894771-89AE-407C-BECD-C138EC7D2691.JPG",
+        "photoCaption": "A hiker looks out from an alpine ridge over the jagged Tombstone peaks and glacial valley, Yukon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.597366,
+          66.454418
+        ]
+      },
+      "properties": {
+        "day": 59,
+        "date": "2025-08-29",
+        "type": "camp",
+        "title": "Eagle Plains, YT",
+        "thought": "End of day fifty-nine. Eagle Plains — the only stop for a hundred miles.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.72092,
+          66.37134
+        ]
+      },
+      "properties": {
+        "day": 59,
+        "date": "2025-08-29",
+        "type": "fuel",
+        "title": "Eagle Plains Fuel Stop",
+        "thought": "Eagle Plains — the only diesel for 200 km in either direction. Top it off, always.",
+        "mood": "cautious",
+        "status": "",
+        "photoFilename": "B5074E87-E586-4CC0-A284-3340DF95F002.JPG",
+        "photoCaption": "Fueling up at Eagle Plains, the Dempster's only gas station for hundreds of kilometres."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.433146,
+          68.203538
+        ]
+      },
+      "properties": {
+        "day": 60,
+        "date": "2025-08-30",
+        "type": "camp",
+        "title": "Gwich'in Territorial Campground, NT",
+        "thought": "End of day sixty. Crossed the Arctic Circle.",
+        "mood": "content",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.57439,
+          66.49061
+        ]
+      },
+      "properties": {
+        "day": 60,
+        "date": "2025-08-30",
+        "type": "sighting",
+        "title": "'Watch for Aircraft' Sign, Dempster",
+        "thought": "Only on the Dempster — watch for planes landing on the road.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "42EBD23A-88B5-4D5F-BF0A-6AFD94FDF0B2.JPG",
+        "photoCaption": "'Watch for Aircraft Landing on Highway' — a Dempster original, where bush pilots share the gravel strip with trucks."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.433146,
+          68.203538
+        ]
+      },
+      "properties": {
+        "day": 60,
+        "date": "2025-08-30",
+        "type": "sighting",
+        "title": "Arctic Circle Monument",
+        "thought": "LAT 66° 33 N — the Arctic Circle on the Dempster. That's real.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "B11C6B1B-C260-47C3-9B64-33D20D8A7F8A.JPG",
+        "photoCaption": "The Arctic Circle monument at Lat 66° 33 N on the Dempster Highway, vast tundra rolling to the horizon."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.433146,
+          68.203538
+        ]
+      },
+      "properties": {
+        "day": 60,
+        "date": "2025-08-30",
+        "type": "sighting",
+        "title": "Muskox on Arctic Tundra",
+        "thought": "First muskox — they look exactly like what came out of the last ice age.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "EA25A8B8-C550-46D9-B951-AA703667688C.JPG",
+        "photoCaption": "A solitary muskox stands on the Arctic tundra of the Dempster corridor, staring down the camera."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.433146,
+          68.203538
+        ]
+      },
+      "properties": {
+        "day": 60,
+        "date": "2025-08-30",
+        "type": "sighting",
+        "title": "Dempster Sunset",
+        "thought": "The Dempster sunset doesn't negotiate — it just burns.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "F95E5E62-1D3D-4D60-95B4-607C756F827D.JPG",
+        "photoCaption": "Fiery sunset over the fall tundra of the Dempster Highway, burnt spruce silhouettes and a sky on fire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.038344,
+          69.454244
+        ]
+      },
+      "properties": {
+        "day": 61,
+        "date": "2025-08-31",
+        "type": "camp",
+        "title": "Tuktoyaktuk, NT, Canada",
+        "thought": "The Arctic Ocean. Made it.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "",
+        "photoCaption": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.70581,
+          68.35523
+        ]
+      },
+      "properties": {
+        "day": 61,
+        "date": "2025-08-31",
+        "type": "sighting",
+        "title": "End of the Dempster Highway",
+        "thought": "The end of the Dempster — and the beginning of the road to Tuk.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "IMG_4384.jpeg",
+        "photoCaption": "End of the Dempster Highway sign near Inuvik, Waldo covered in road grit behind it."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.03702,
+          69.45542
+        ]
+      },
+      "properties": {
+        "day": 61,
+        "date": "2025-08-31",
+        "type": "sighting",
+        "title": "The Arctic Ocean, Tuktoyaktuk",
+        "thought": "The Arctic Ocean at Tuktoyaktuk. The front bumper dipped in.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "094FD878-B8BD-469A-BF4D-38F0A94E5786.JPG",
+        "photoCaption": "Waldo's hood and bumper frame the Beaufort Sea at Tuktoyaktuk — the Arctic Ocean at journey's end."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.0381,
+          69.45428
+        ]
+      },
+      "properties": {
+        "day": 61,
+        "date": "2025-08-31",
+        "type": "sighting",
+        "title": "Arrival at Tuktoyaktuk",
+        "thought": "We made it. Tuk, the Arctic Ocean, and every single mile between here and home.",
+        "mood": "optimistic",
+        "status": "",
+        "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
+        "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
+      }
+    }
+  ],
+  "generated": "2026-07-16T18:06:00.559Z",
+  "totalEvents": 124
 }

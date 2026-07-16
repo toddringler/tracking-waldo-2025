@@ -1,0 +1,34 @@
+{
+  "day": 17,
+  "date": "2025-07-18",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.338354,
+      "lon": -115.318184,
+      "title": "Lochsa River, ID",
+      "thought": "End of day seventeen. The Lochsa is running clear and cold.",
+      "mood": "content"
+    },
+    {
+      "type": "incident",
+      "lat": 46.83566,
+      "lon": -114.01663,
+      "title": "Bump Stop Inspection, Missoula, MT",
+      "thought": "Checking the Deaver bump stop — everything looks good but it warranted a stop.",
+      "mood": "cautious",
+      "photoFilename": "C412A6DB-FAA4-4C80-A6EE-2A3B8C69CE63_1_102_o.jpeg",
+      "photoCaption": "Under-truck inspection near Missoula: Deaver bump stop and suspension components."
+    },
+    {
+      "type": "sighting",
+      "lat": 46.33626,
+      "lon": -115.31324,
+      "title": "Lochsa River, ID",
+      "thought": "The Lochsa runs cold and clear — this is what wild rivers look like.",
+      "mood": "optimistic",
+      "photoFilename": "A1F43B5A-5819-483B-93CB-2B52D23D2DF7_1_102_o.jpeg",
+      "photoCaption": "The crystal-clear Lochsa River tumbles over boulders through Idaho's dense conifer forest."
+    }
+  ]
+}

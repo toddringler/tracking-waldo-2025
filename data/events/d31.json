@@ -1,0 +1,24 @@
+{
+  "day": 31,
+  "date": "2025-08-01",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.612288,
+      "lon": -127.175808,
+      "title": "Telegraph Cove, BC",
+      "thought": "End of day thirty-one. Telegraph Cove is worth every kilometre.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 50.40968,
+      "lon": -126.25365,
+      "title": "BC Logging Truck, Vancouver Island",
+      "thought": "Logging trucks own the roads up here — this one filled the whole lane.",
+      "mood": "cautious",
+      "photoFilename": "6953BB92-8064-461A-A602-A62C5DB79874.JPG",
+      "photoCaption": "A loaded BC logging truck fills the narrow forest road ahead, Waldo's CarPlay tracking every twist."
+    }
+  ]
+}

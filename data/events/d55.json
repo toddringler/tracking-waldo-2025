@@ -1,0 +1,14 @@
+{
+  "day": 55,
+  "date": "2025-08-25",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 63.415418,
+      "lon": -142.475498,
+      "title": "Wrangell-St. Elias NP, AK",
+      "thought": "End of day fifty-five. Back out of the wilderness.",
+      "mood": "content"
+    }
+  ]
+}

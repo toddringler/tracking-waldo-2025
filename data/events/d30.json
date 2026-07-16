@@ -1,0 +1,14 @@
+{
+  "day": 30,
+  "date": "2025-07-31",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.03223,
+      "lon": -125.300216,
+      "title": "Campbell River, BC",
+      "thought": "End of day thirty. Island highway north.",
+      "mood": "content"
+    }
+  ]
+}

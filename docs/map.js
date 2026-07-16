@@ -351,15 +351,30 @@ window.flyToEvent = flyToEvent;
 // Stats strip
 // ---------------------------------------------------------------------------
 function updateStats(routeData, eventsData) {
-  const lineFeatures = (routeData?.features || []).filter(f => f.geometry?.type === 'LineString');
+  const lineFeatures = (routeData?.features || []).filter(f =>
+    f.geometry?.type === 'LineString' || f.geometry?.type === 'MultiLineString'
+  );
 
   let points = 0;
   let distanceKm = 0;
   lineFeatures.forEach((feature) => {
-    const coordinates = feature?.geometry?.coordinates || [];
-    points += coordinates.length;
+    const geom = feature?.geometry;
     const distanceKmProp = Number(feature?.properties?.distanceKm);
-    distanceKm += Number.isFinite(distanceKmProp) ? distanceKmProp : totalDistanceKm(coordinates);
+    if (geom?.type === 'MultiLineString') {
+      const segments = geom.coordinates || [];
+      segments.forEach(seg => {
+        points += seg.length;
+        distanceKm += totalDistanceKm(seg);
+      });
+      // override with stored property if present
+      if (Number.isFinite(distanceKmProp)) {
+        // already accumulated per-segment; no override needed for MultiLineString
+      }
+    } else {
+      const coordinates = geom?.coordinates || [];
+      points += coordinates.length;
+      distanceKm += Number.isFinite(distanceKmProp) ? distanceKmProp : totalDistanceKm(coordinates);
+    }
   });
 
   // Find max day
@@ -383,12 +398,16 @@ function fitToData(routeData, eventsData) {
   const bounds = new mapboxgl.LngLatBounds();
   let hasPoints = false;
 
-  const lineFeatures = (routeData?.features || []).filter(f => f.geometry?.type === 'LineString');
+  const lineFeatures = (routeData?.features || []).filter(f =>
+    f.geometry?.type === 'LineString' || f.geometry?.type === 'MultiLineString'
+  );
   lineFeatures.forEach((lineFeature) => {
-    lineFeature.geometry.coordinates.forEach(coord => {
+    const geom = lineFeature.geometry;
+    const segments = geom.type === 'MultiLineString' ? geom.coordinates : [geom.coordinates];
+    segments.forEach(seg => seg.forEach(coord => {
       bounds.extend(coord);
       hasPoints = true;
-    });
+    }));
   });
 
   eventsData?.features?.forEach(f => {

@@ -1,0 +1,44 @@
+{
+  "day": 9,
+  "date": "2025-07-10",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 48.590923,
+      "lon": -86.294708,
+      "title": "Highway 35, ON, Canada",
+      "thought": "End of day nine.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 48.29781,
+      "lon": -84.94817,
+      "title": "Boreal Lake, Lake Superior PP",
+      "thought": "The boreal has a way of making every lake look like the only lake in the world.",
+      "mood": "content",
+      "photoFilename": "21B262B6-1FFF-4769-9B9B-36E022680E99_1_105_c.jpeg",
+      "photoCaption": "Mirror-calm boreal lake with lone island, surrounded by black spruce and reflected sky."
+    },
+    {
+      "type": "sighting",
+      "lat": 48.60565,
+      "lon": -86.28845,
+      "title": "Pukaskwa National Park",
+      "thought": "Pukaskwa — one of Canada's least-visited national parks, and wild as they come.",
+      "mood": "optimistic",
+      "photoFilename": "F53674E0-0D51-4AC5-A5DD-84296EF7F79B_1_105_c.jpeg",
+      "photoCaption": "Entrance sign at Pukaskwa National Park of Canada, gateway to wild Lake Superior country."
+    },
+    {
+      "type": "sighting",
+      "lat": 48.59034,
+      "lon": -86.30040,
+      "title": "Driftwood Beach, Lake Superior",
+      "thought": "Lake Superior's shores are decorated with years of driftwood — raw and beautiful.",
+      "mood": "content",
+      "photoFilename": "1A540DA7-123A-47C3-B24E-65FFA3B190C3_1_102_o.jpeg",
+      "photoCaption": "Driftwood-strewn sandy beach on the shores of Lake Superior near Pukaskwa."
+    }
+  ]
+}

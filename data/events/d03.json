@@ -1,0 +1,14 @@
+{
+  "day": 3,
+  "date": "2025-07-04",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 43.303191,
+      "lon": -76.831558,
+      "title": "Roney Road, Wolcott, NY",
+      "thought": "End of day three.",
+      "mood": "content"
+    }
+  ]
+}

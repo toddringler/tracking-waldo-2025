@@ -1,0 +1,44 @@
+{
+  "day": 61,
+  "date": "2025-08-31",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 69.454244,
+      "lon": -133.038344,
+      "title": "Tuktoyaktuk, NT, Canada",
+      "thought": "The Arctic Ocean. Made it.",
+      "mood": "optimistic"
+    },
+    {
+      "type": "sighting",
+      "lat": 68.35523,
+      "lon": -133.70581,
+      "title": "End of the Dempster Highway",
+      "thought": "The end of the Dempster — and the beginning of the road to Tuk.",
+      "mood": "optimistic",
+      "photoFilename": "IMG_4384.jpeg",
+      "photoCaption": "End of the Dempster Highway sign near Inuvik, Waldo covered in road grit behind it."
+    },
+    {
+      "type": "sighting",
+      "lat": 69.45542,
+      "lon": -133.03702,
+      "title": "The Arctic Ocean, Tuktoyaktuk",
+      "thought": "The Arctic Ocean at Tuktoyaktuk. The front bumper dipped in.",
+      "mood": "optimistic",
+      "photoFilename": "094FD878-B8BD-469A-BF4D-38F0A94E5786.JPG",
+      "photoCaption": "Waldo's hood and bumper frame the Beaufort Sea at Tuktoyaktuk — the Arctic Ocean at journey's end."
+    },
+    {
+      "type": "sighting",
+      "lat": 69.45428,
+      "lon": -133.0381,
+      "title": "Arrival at Tuktoyaktuk",
+      "thought": "We made it. Tuk, the Arctic Ocean, and every single mile between here and home.",
+      "mood": "optimistic",
+      "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
+      "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
+    }
+  ]
+}

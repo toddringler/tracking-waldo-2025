@@ -1,0 +1,24 @@
+{
+  "day": 52,
+  "date": "2025-08-22",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 61.679228,
+      "lon": -139.757366,
+      "title": "Clearwater Camp, YT",
+      "thought": "End of day fifty-two. Yukon highlands.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 60.5758,
+      "lon": -137.22107,
+      "title": "Kathleen Lake Reflection, YT",
+      "thought": "Kathleen Lake in the Yukon has no right to be this perfect.",
+      "mood": "optimistic",
+      "photoFilename": "7DBBD82D-7BA3-4AA2-B318-18CE743189F8.JPG",
+      "photoCaption": "Kathleen Lake in perfect reflection — a conical Yukon peak and cirrus sky mirrored in crystal-clear water."
+    }
+  ]
+}

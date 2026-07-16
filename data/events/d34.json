@@ -1,0 +1,24 @@
+{
+  "day": 34,
+  "date": "2025-08-04",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.532066,
+      "lon": -127.434346,
+      "title": "Side Bay, BC",
+      "thought": "End of day thirty-four. Fog and quiet.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 50.532066,
+      "lon": -127.434346,
+      "title": "Rocky Shore, Side Bay",
+      "thought": "Low tide at Side Bay — every rock shows something worth looking at.",
+      "mood": "content",
+      "photoFilename": "36E01A63-992D-47C6-B5EB-FBBEB0C8EE80.JPG",
+      "photoCaption": "A lone figure walks the kelp-strewn rocky shore at Side Bay, BC, mountains rising across the inlet."
+    }
+  ]
+}

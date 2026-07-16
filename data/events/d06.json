@@ -1,0 +1,44 @@
+{
+  "day": 6,
+  "date": "2025-07-07",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 45.667302,
+      "lon": -81.948544,
+      "title": "Gauthier's Road, Assiginack, ON, Canada",
+      "thought": "End of day six.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 45.208817,
+      "lon": -81.495392,
+      "title": "Bruce Peninsula National Park",
+      "thought": "Into Bruce Peninsula National Park — one of Canada's most dramatic landscapes.",
+      "mood": "optimistic",
+      "photoFilename": "63705E86-11B0-4E5B-97AD-AB76C60F5005_1_105_c.jpeg",
+      "photoCaption": "Parks Canada entrance sign for Bruce Peninsula National Park of Canada."
+    },
+    {
+      "type": "sighting",
+      "lat": 45.23848,
+      "lon": -81.48770,
+      "title": "Niagara Escarpment Cliffs, Bruce Peninsula",
+      "thought": "These sheer dolomite cliffs over Georgian Bay might be the most dramatic thing I've seen so far on this trip.",
+      "mood": "optimistic",
+      "photoFilename": "9168B2F0-E0B6-40D4-9D84-59D78EAD5535_1_102_o.jpeg",
+      "photoCaption": "Sheer dolomite cliffs of Bruce Peninsula drop into the turquoise waters of Georgian Bay."
+    },
+    {
+      "type": "ferry",
+      "lat": 45.25785,
+      "lon": -81.66352,
+      "title": "Chi-Cheemaun Ferry, Tobermory",
+      "thought": "Boarding the Chi-Cheemaun to cross Georgian Bay — the 'Big Canoe' lives up to its name.",
+      "mood": "optimistic",
+      "photoFilename": "2538DABB-B453-4223-BAA2-7425C0666D94_1_105_c.jpeg",
+      "photoCaption": "The Chi-Cheemaun Ontario ferry, adorned with Indigenous artwork, prepares to cross Georgian Bay."
+    }
+  ]
+}

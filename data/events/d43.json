@@ -1,0 +1,44 @@
+{
+  "day": 43,
+  "date": "2025-08-13",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 56.169174,
+      "lon": -130.051453,
+      "title": "Salmon Glacier Viewpoint, Stewart, BC",
+      "thought": "End of day forty-three. The glacier looms above.",
+      "mood": "content"
+    },
+    {
+      "type": "camp",
+      "lat": 55.841575,
+      "lon": -128.837753,
+      "title": "Jigsaw Lake, BC",
+      "thought": "Jigsaw Lake — the kind of spot that makes you recalibrate what 'beautiful' means.",
+      "mood": "content",
+      "photoFilename": "CBB797CD-A37F-40B3-B549-C08852312F2E.JPG",
+      "photoCaption": "Waldo lakeside at Jigsaw Lake Recreation Site, BC, as a photographer scans the water."
+    },
+    {
+      "type": "sighting",
+      "lat": 56.08215,
+      "lon": -129.27628,
+      "title": "Salmon Glacier Summit View",
+      "thought": "The Salmon Glacier doesn't prepare you — nothing does. It just sits there, massive and ancient.",
+      "mood": "optimistic",
+      "photoFilename": "IMG_4033.jpeg",
+      "photoCaption": "The Salmon Glacier pours through its BC valley from the summit viewpoint near Stewart, an enormous river of ancient ice."
+    },
+    {
+      "type": "sighting",
+      "lat": 56.1806,
+      "lon": -130.05573,
+      "title": "Waldo at Salmon Glacier Viewpoint",
+      "thought": "Waldo at the Salmon Glacier viewpoint — the scale of it doesn't register until you're standing there.",
+      "mood": "optimistic",
+      "photoFilename": "6B24E899-3C8C-4167-87A4-F68E29667955.JPG",
+      "photoCaption": "Waldo parked at the Salmon Glacier summit viewpoint, the massive blue-white glacier filling the valley below."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "day": 10,
+  "date": "2025-07-11",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 48.371531,
+      "lon": -88.806609,
+      "title": "Sleeping Giant Provincial Park, ON, Canada",
+      "thought": "End of day ten.",
+      "mood": "content"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T03:00:08.168Z",
+  "generated": "2026-07-16T18:06:00.146Z",
   "tracks": [
     {
       "sourceFile": "d01.geojson",
@@ -366,12 +366,6 @@
       "geojson": "routes/d61-gwichin-territorial-campground-to-our-lady-of-lourdes-tuktoyaktuk-nt-canada.geojson",
       "pointCount": 0,
       "distanceKm": 0
-    },
-    {
-      "sourceFile": "sample-track.geojson",
-      "geojson": "routes/sample-track.geojson",
-      "pointCount": 14,
-      "distanceKm": 585.885
     }
   ]
 }

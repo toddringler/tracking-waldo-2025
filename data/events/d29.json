@@ -1,0 +1,24 @@
+{
+  "day": 29,
+  "date": "2025-07-30",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.032081,
+      "lon": -125.300167,
+      "title": "Quinsam Campground, Campbell River, BC",
+      "thought": "End of day twenty-nine. Into BC via ferry.",
+      "mood": "content"
+    },
+    {
+      "type": "ferry",
+      "lat": 48.12195,
+      "lon": -123.4306,
+      "title": "MV Coho Ferry, Port Angeles",
+      "thought": "Aboard the Coho — bound for Victoria and the northern miles ahead.",
+      "mood": "optimistic",
+      "photoFilename": "E0B453A2-A721-4E39-BF0D-E70420A6B26A.JPG",
+      "photoCaption": "Flags of Canada, the US, and Black Ball Line fly as the MV Coho departs Port Angeles for Victoria, BC."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "day": 26,
+  "date": "2025-07-27",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.921104,
+      "lon": -124.638204,
+      "title": "Mora Camp, Olympic NP, WA",
+      "thought": "End of day twenty-six. The Hoh coast is something else.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 47.65342,
+      "lon": -124.39217,
+      "title": "Olympic Coast Tide Flats",
+      "thought": "Low tide on the Olympic coast — getting low to see what the sea reveals.",
+      "mood": "optimistic",
+      "photoFilename": "AF4640D9-3449-47D0-B3A0-16A54A4A9D97.JPG",
+      "photoCaption": "Photographer flat on the Olympic tide flats, telephoto lens trained on sea life below."
+    },
+    {
+      "type": "sighting",
+      "lat": 47.65342,
+      "lon": -124.39217,
+      "title": "Tide Pool Life, Olympic Coast",
+      "thought": "The tide pools on the Olympic coast are a whole universe at knee height.",
+      "mood": "optimistic",
+      "photoFilename": "16076FE5-851E-45EA-BA34-1FAB23636498.JPG",
+      "photoCaption": "Macro shot of a purple sea urchin and sea star in a crystal-clear Olympic Peninsula tide pool."
+    }
+  ]
+}

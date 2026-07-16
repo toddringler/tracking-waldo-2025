@@ -1,0 +1,34 @@
+{
+  "day": 49,
+  "date": "2025-08-19",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 59.334831,
+      "lon": -135.56773,
+      "title": "Chilcoot River Campground, YT",
+      "thought": "End of day forty-nine. The Chilkoot corridor.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 59.334831,
+      "lon": -135.56773,
+      "title": "Welcome to Alaska, White Pass",
+      "thought": "Welcome to Alaska — for real this time. The gateway to the Klondike.",
+      "mood": "optimistic",
+      "photoFilename": "EEAD2739-08C1-4AB7-8121-50B0B28C3B47.JPG",
+      "photoCaption": "Welcome to Alaska and the Gateway to the Klondike — the border sign at White Pass in alpine glory."
+    },
+    {
+      "type": "sighting",
+      "lat": 59.334831,
+      "lon": -135.56773,
+      "title": "Grizzly on Fish Creek",
+      "thought": "A grizzly on Fish Creek coming straight at the lens — that's a good use of a telephoto.",
+      "mood": "optimistic",
+      "photoFilename": "44096EEB-93E2-4637-B255-073F254E33F9.JPG",
+      "photoCaption": "A soaking wet grizzly bear strides along the rocks of Fish Creek near Hyder, heading straight for the camera."
+    }
+  ]
+}

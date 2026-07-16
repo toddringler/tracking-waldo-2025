@@ -1,0 +1,24 @@
+{
+  "day": 51,
+  "date": "2025-08-21",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 60.5784,
+      "lon": -137.207692,
+      "title": "Hard Luck Creek, YT",
+      "thought": "End of day fifty-one. The name says it all.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 60.5784,
+      "lon": -137.207692,
+      "title": "Fireweed and Yukon Peaks",
+      "thought": "Fireweed in August means summer is turning — and the mountains don't care.",
+      "mood": "optimistic",
+      "photoFilename": "3D4A4582.JPG",
+      "photoCaption": "Fireweed in full bloom frames snow-capped Yukon peaks, summer's last hurrah before the alpine turns gold."
+    }
+  ]
+}

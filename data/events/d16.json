@@ -1,0 +1,14 @@
+{
+  "day": 16,
+  "date": "2025-07-17",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.857322,
+      "lon": -113.991165,
+      "title": "Missoula, MT",
+      "thought": "A rest day in Missoula — no complaints.",
+      "mood": "content"
+    }
+  ]
+}

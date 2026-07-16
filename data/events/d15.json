@@ -1,0 +1,14 @@
+{
+  "day": 15,
+  "date": "2025-07-16",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.857327,
+      "lon": -113.99125,
+      "title": "Missoula, MT",
+      "thought": "End of day fifteen. Missoula earns its reputation.",
+      "mood": "content"
+    }
+  ]
+}

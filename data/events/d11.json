@@ -1,0 +1,24 @@
+{
+  "day": 11,
+  "date": "2025-07-12",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 48.58374,
+      "lon": -93.402047,
+      "title": "Arnold's Campground, International Falls, MN",
+      "thought": "End of day eleven.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 48.32637,
+      "lon": -88.91750,
+      "title": "Sleeping Giant Provincial Park Cliffs",
+      "thought": "The Sleeping Giant's cliffs drop straight into Superior like the edge of the world.",
+      "mood": "optimistic",
+      "photoFilename": "09915C3B-9183-4BBD-BC69-D270A2BC32EC_1_102_o.jpeg",
+      "photoCaption": "Sheer cliffs of Sleeping Giant Provincial Park plunge into Lake Superior, a small island visible through the haze."
+    }
+  ]
+}

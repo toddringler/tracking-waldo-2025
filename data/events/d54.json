@@ -1,0 +1,24 @@
+{
+  "day": 54,
+  "date": "2025-08-24",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 62.529575,
+      "lon": -143.257914,
+      "title": "Wrangell-St. Elias NP, AK",
+      "thought": "End of day fifty-four. Into the biggest national park in the US.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 62.43408,
+      "lon": -143.11607,
+      "title": "Alpine Tundra Hike, Wrangell-St. Elias",
+      "thought": "Wrangell-St. Elias doesn't mess around — the rocks are serious and the tundra is already turning.",
+      "mood": "optimistic",
+      "photoFilename": "4A4C1EBF-E9DC-46DC-86E7-F0E390C58694.JPG",
+      "photoCaption": "A hiker climbs through early-fall alpine tundra in Wrangell-St. Elias NP, jagged granite towers looming above the valley."
+    }
+  ]
+}

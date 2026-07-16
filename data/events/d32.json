@@ -1,0 +1,24 @@
+{
+  "day": 32,
+  "date": "2025-08-02",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.612275,
+      "lon": -127.175886,
+      "title": "Blackfish Sound, BC",
+      "thought": "End of day thirty-two. Orca country.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 50.612275,
+      "lon": -127.175886,
+      "title": "Orca in Blackfish Sound",
+      "thought": "An orca surfacing in Johnstone Strait — this is why the route goes here.",
+      "mood": "optimistic",
+      "photoFilename": "00BCA194-87D3-4501-A651-4873EFEE61DD.JPG",
+      "photoCaption": "An orca surfaces in Blackfish Sound, blow spray catching the light, forested BC coast behind."
+    }
+  ]
+}

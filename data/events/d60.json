@@ -1,0 +1,54 @@
+{
+  "day": 60,
+  "date": "2025-08-30",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 68.203538,
+      "lon": -133.433146,
+      "title": "Gwich'in Territorial Campground, NT",
+      "thought": "End of day sixty. Crossed the Arctic Circle.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 66.49061,
+      "lon": -136.57439,
+      "title": "'Watch for Aircraft' Sign, Dempster",
+      "thought": "Only on the Dempster — watch for planes landing on the road.",
+      "mood": "optimistic",
+      "photoFilename": "42EBD23A-88B5-4D5F-BF0A-6AFD94FDF0B2.JPG",
+      "photoCaption": "'Watch for Aircraft Landing on Highway' — a Dempster original, where bush pilots share the gravel strip with trucks."
+    },
+    {
+      "type": "sighting",
+      "lat": 68.203538,
+      "lon": -133.433146,
+      "title": "Arctic Circle Monument",
+      "thought": "LAT 66° 33 N — the Arctic Circle on the Dempster. That's real.",
+      "mood": "optimistic",
+      "photoFilename": "B11C6B1B-C260-47C3-9B64-33D20D8A7F8A.JPG",
+      "photoCaption": "The Arctic Circle monument at Lat 66° 33 N on the Dempster Highway, vast tundra rolling to the horizon."
+    },
+    {
+      "type": "sighting",
+      "lat": 68.203538,
+      "lon": -133.433146,
+      "title": "Muskox on Arctic Tundra",
+      "thought": "First muskox — they look exactly like what came out of the last ice age.",
+      "mood": "optimistic",
+      "photoFilename": "EA25A8B8-C550-46D9-B951-AA703667688C.JPG",
+      "photoCaption": "A solitary muskox stands on the Arctic tundra of the Dempster corridor, staring down the camera."
+    },
+    {
+      "type": "sighting",
+      "lat": 68.203538,
+      "lon": -133.433146,
+      "title": "Dempster Sunset",
+      "thought": "The Dempster sunset doesn't negotiate — it just burns.",
+      "mood": "optimistic",
+      "photoFilename": "F95E5E62-1D3D-4D60-95B4-607C756F827D.JPG",
+      "photoCaption": "Fiery sunset over the fall tundra of the Dempster Highway, burnt spruce silhouettes and a sky on fire."
+    }
+  ]
+}

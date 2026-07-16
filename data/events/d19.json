@@ -1,0 +1,24 @@
+{
+  "day": 19,
+  "date": "2025-07-20",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.26002,
+      "lon": -118.843876,
+      "title": "Burbank, WA",
+      "thought": "End of day nineteen. Into Washington.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 46.49078,
+      "lon": -116.43639,
+      "title": "Clearwater River Fly Shop, ID",
+      "thought": "A proper Clearwater fly shop — Burkheimer rods and all. Hard to drive past.",
+      "mood": "optimistic",
+      "photoFilename": "01089C3E-879C-4C44-AC8F-86273D87EE7F_1_102_o.jpeg",
+      "photoCaption": "A classic roadside fly shop on the Clearwater River, stocked with the finest spey tackle."
+    }
+  ]
+}

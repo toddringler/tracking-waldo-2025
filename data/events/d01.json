@@ -1,0 +1,24 @@
+{
+  "day": 1,
+  "date": "2025-07-02",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 41.615082,
+      "lon": -77.601397,
+      "title": "Slider's Camp, PA",
+      "thought": "End of day one.",
+      "mood": "content"
+    },
+    {
+      "type": "incident",
+      "lat": 41.107475,
+      "lon": -76.897675,
+      "title": "Undercarriage Inspection, PA",
+      "thought": "Day one and already wondering if the load is too much — that bump stop is not resting on the frame, but it is close.",
+      "mood": "cautious",
+      "photoFilename": "4C47C8CE-99AD-4897-9268-B88E3219B318_1_102_o.jpeg",
+      "photoCaption": "Under-vehicle inspection on day one: Not much clearance on the bump stop."
+    }
+  ]
+}

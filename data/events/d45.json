@@ -1,0 +1,34 @@
+{
+  "day": 45,
+  "date": "2025-08-15",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 55.909,
+      "lon": -130.027922,
+      "title": "Moose Pond, Hyder, AK",
+      "thought": "End of day forty-five. Hyder — the friendliest ghost town in Alaska.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 55.909,
+      "lon": -130.027922,
+      "title": "Bear on Fish Creek, Hyder",
+      "thought": "Fish Creek delivers — a bear with a salmon in its mouth, ten feet away.",
+      "mood": "optimistic",
+      "photoFilename": "3333421F-0298-4A93-A353-CDEA57628AAF.JPG",
+      "photoCaption": "A black bear works a salmon in Fish Creek near Hyder, AK — the salmon run was on."
+    },
+    {
+      "type": "camp",
+      "lat": 55.909,
+      "lon": -130.027922,
+      "title": "Glacial Bar Camp, BC",
+      "thought": "Camped on the glacial bar with fog threading the mountains — this is Waldo in its element.",
+      "mood": "content",
+      "photoFilename": "82DC014F-CD35-463E-AC82-AA829DFCBB05.JPG",
+      "photoCaption": "Waldo set up on a glacial gravel bar in BC, milky turquoise river in front and fog-wrapped mountains behind."
+    }
+  ]
+}

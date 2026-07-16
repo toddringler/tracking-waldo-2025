@@ -1,0 +1,14 @@
+{
+  "day": 35,
+  "date": "2025-08-05",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 50.682367,
+      "lon": -128.239561,
+      "title": "San Josef, BC",
+      "thought": "End of day thirty-five. The end of the road on northern Vancouver Island.",
+      "mood": "content"
+    }
+  ]
+}

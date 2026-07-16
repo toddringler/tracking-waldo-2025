@@ -1,0 +1,24 @@
+{
+  "day": 23,
+  "date": "2025-07-24",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.462113,
+      "lon": -123.860106,
+      "title": "Willaby Campground, WA",
+      "thought": "End of day twenty-three. Another night at Willaby.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 47.462155,
+      "lon": -123.86009,
+      "title": "Lake Quinault Sunset",
+      "thought": "Lake Quinault at sunset — I could stay here for a week.",
+      "mood": "content",
+      "photoFilename": "248EC49C-E9A4-4AFF-8A47-1D21DAC3E11B_1_105_c.jpeg",
+      "photoCaption": "Golden sunset over Lake Quinault, silhouetted firs and driftwood framing the calm water."
+    }
+  ]
+}

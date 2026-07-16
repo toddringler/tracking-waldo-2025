@@ -1,0 +1,34 @@
+{
+  "day": 25,
+  "date": "2025-07-26",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.461973,
+      "lon": -123.859904,
+      "title": "Willaby Campground, WA",
+      "thought": "End of day twenty-five. Still at Willaby — no complaints.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 47.45819,
+      "lon": -123.73188,
+      "title": "Colonel Bob Wilderness Sign",
+      "thought": "The Colonel Bob Wilderness — where the old-growth still holds court.",
+      "mood": "optimistic",
+      "photoFilename": "B182AF2F-2624-4C3C-840E-5A78FE4C954B.JPG",
+      "photoCaption": "Carved wooden boundary sign for Colonel Bob Wilderness, Olympic National Forest."
+    },
+    {
+      "type": "sighting",
+      "lat": 47.48847,
+      "lon": -123.74631,
+      "title": "Summit of Colonel Bob",
+      "thought": "Summit of Colonel Bob — 360 degrees of Olympic Peninsula wilderness.",
+      "mood": "optimistic",
+      "photoFilename": "DA74959D-3A10-42DE-8B6E-B7BECF7DC8D5.JPG",
+      "photoCaption": "Two hikers on the rocky summit of Colonel Bob, Olympic Mountains spreading to every horizon."
+    }
+  ]
+}

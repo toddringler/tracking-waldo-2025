@@ -1,0 +1,24 @@
+{
+  "day": 59,
+  "date": "2025-08-29",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 66.454418,
+      "lon": -136.597366,
+      "title": "Eagle Plains, YT",
+      "thought": "End of day fifty-nine. Eagle Plains — the only stop for a hundred miles.",
+      "mood": "content"
+    },
+    {
+      "type": "fuel",
+      "lat": 66.37134,
+      "lon": -136.72092,
+      "title": "Eagle Plains Fuel Stop",
+      "thought": "Eagle Plains — the only diesel for 200 km in either direction. Top it off, always.",
+      "mood": "cautious",
+      "photoFilename": "B5074E87-E586-4CC0-A284-3340DF95F002.JPG",
+      "photoCaption": "Fueling up at Eagle Plains, the Dempster's only gas station for hundreds of kilometres."
+    }
+  ]
+}

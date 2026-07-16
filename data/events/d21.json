@@ -1,0 +1,34 @@
+{
+  "day": 21,
+  "date": "2025-07-22",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.365224,
+      "lon": -123.89001,
+      "title": "Skunk Creek, Grays Harbor County, WA",
+      "thought": "End of day twenty-one. Deep in the Olympic Peninsula.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 46.71713,
+      "lon": -121.57746,
+      "title": "Mount Rainier National Park Entrance",
+      "thought": "Through the gates of Rainier — the mountain gods are watching.",
+      "mood": "optimistic",
+      "photoFilename": "26D77E13-9720-4C2A-B85A-3854AD8E6D6B_1_102_o.jpeg",
+      "photoCaption": "Timber arch entrance gate to Mount Rainier National Park, firs dripping green behind."
+    },
+    {
+      "type": "sighting",
+      "lat": 46.87416,
+      "lon": -121.51605,
+      "title": "Alpine Valley, Mount Rainier NP",
+      "thought": "That valley view from Rainier's flanks is the kind of thing that resets everything.",
+      "mood": "optimistic",
+      "photoFilename": "38A6B790-D48A-4880-8A6A-A830422034D3_1_105_c.jpeg",
+      "photoCaption": "Deep alpine valley on the flanks of Mount Rainier, winding road visible far below."
+    }
+  ]
+}

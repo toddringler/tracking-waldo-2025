@@ -1,0 +1,24 @@
+{
+  "day": 13,
+  "date": "2025-07-14",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.827367,
+      "lon": -105.262241,
+      "title": "Svenson Creek, Prairie County, MT",
+      "thought": "End of day thirteen. Deep in the Montana plains.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 46.82323,
+      "lon": -105.282145,
+      "title": "Montana Badlands Road",
+      "thought": "The road just keeps going — Montana plays by its own scale.",
+      "mood": "optimistic",
+      "photoFilename": "90106A08-BC3D-4FFD-BC0A-DC7C30D19EE5_1_102_o.jpeg",
+      "photoCaption": "A gravel track arrow-straight through the Montana badlands, mesa rising in the distance."
+    }
+  ]
+}

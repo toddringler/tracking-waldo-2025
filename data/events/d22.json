@@ -1,0 +1,24 @@
+{
+  "day": 22,
+  "date": "2025-07-23",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.462183,
+      "lon": -123.860188,
+      "title": "Willaby Campground, WA",
+      "thought": "End of day twenty-two. Lake Quinault is extraordinary.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 47.365295,
+      "lon": -123.89006,
+      "title": "Quinault Rain Forest, Olympic Peninsula",
+      "thought": "The Quinault rainforest doesn't let you rush — it's too alive for that.",
+      "mood": "content",
+      "photoFilename": "E39086FB-ED97-42A5-890E-D47CF79AB9B6_1_102_o.jpeg",
+      "photoCaption": "Fog-filled old-growth rainforest near Quinault, moss draped over every surface."
+    }
+  ]
+}

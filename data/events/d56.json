@@ -1,0 +1,54 @@
+{
+  "day": 56,
+  "date": "2025-08-26",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 64.073297,
+      "lon": -140.979664,
+      "title": "Davis Creek, YT",
+      "thought": "End of day fifty-six. Dempster Highway beckons.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 64.073297,
+      "lon": -140.979664,
+      "title": "Aurora Borealis, Dempster Highway",
+      "thought": "The aurora came out dancing on the Dempster — Waldo had front row seats.",
+      "mood": "optimistic",
+      "photoFilename": "0D341D27-EDFF-4F44-8162-7A180C39272F.JPG",
+      "photoCaption": "Waldo's rooftop tent silhouetted against a full aurora borealis display over the Dempster Highway, Yukon."
+    },
+    {
+      "type": "sighting",
+      "lat": 64.073297,
+      "lon": -140.979664,
+      "title": "Waldo on the Dempster",
+      "thought": "A tiny black speck on the Dempster — Waldo and the Yukon on equal terms.",
+      "mood": "optimistic",
+      "photoFilename": "EA5FC07D-CCAC-4C24-9AE6-DC2424D55203.JPG",
+      "photoCaption": "Waldo navigates the Dempster Highway across fall tundra in full color, the Yukon's infinite ridgelines receding behind."
+    },
+    {
+      "type": "sighting",
+      "lat": 64.074,
+      "lon": -141.935,
+      "title": "Chicken, Alaska",
+      "thought": "Chicken, Alaska — the rooster and the signpost say it all.",
+      "mood": "optimistic",
+      "photoFilename": "8C8EE93F-14F6-4669-ABD7-A6E38759EFF8.JPG",
+      "photoCaption": "The famous metal rooster and directional signpost in Chicken, Alaska, pointing to chicken-named places worldwide."
+    },
+    {
+      "type": "sighting",
+      "lat": 64.07329,
+      "lon": -140.97983,
+      "title": "Dempster Ridgeline View",
+      "thought": "Parked on the ridgeline with nothing between us and the horizon for a hundred miles.",
+      "mood": "optimistic",
+      "photoFilename": "6CDF71CA-6637-4029-8948-2688E709124D.JPG",
+      "photoCaption": "Waldo on a Dempster ridgeline, vast fall-toned Yukon mountains stretching to every horizon under deep blue sky."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "day": 58,
+  "date": "2025-08-28",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 65.085232,
+      "lon": -138.36207,
+      "title": "Yukon River Camp, YT",
+      "thought": "End of day fifty-eight. The Dempster unwinds north.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 64.43654,
+      "lon": -138.35433,
+      "title": "Tombstone Range from the Ridge",
+      "thought": "Standing above Tombstone Park's valley — those dark spires live rent-free in your head forever.",
+      "mood": "optimistic",
+      "photoFilename": "F6894771-89AE-407C-BECD-C138EC7D2691.JPG",
+      "photoCaption": "A hiker looks out from an alpine ridge over the jagged Tombstone peaks and glacial valley, Yukon."
+    }
+  ]
+}

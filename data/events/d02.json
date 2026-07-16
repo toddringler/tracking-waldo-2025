@@ -1,0 +1,14 @@
+{
+  "day": 2,
+  "date": "2025-07-03",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 43.303196,
+      "lon": -76.831524,
+      "title": "East Port Bay Road, Wolcott, NY",
+      "thought": "End of day two. Camped near Wolcott.",
+      "mood": "content"
+    }
+  ]
+}

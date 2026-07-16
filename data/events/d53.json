@@ -1,0 +1,24 @@
+{
+  "day": 53,
+  "date": "2025-08-23",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 63.165426,
+      "lon": -143.20042,
+      "title": "Clearwater Camp, Southeast Fairbanks, AK",
+      "thought": "End of day fifty-three. Deep in the Alaska interior.",
+      "mood": "content"
+    },
+    {
+      "type": "camp",
+      "lat": 63.165426,
+      "lon": -143.20042,
+      "title": "Alaska Range Braided River Bar Camp",
+      "thought": "Camped on a braided glacier bar in the Alaska Range — blue sky, no fences, just mountains.",
+      "mood": "optimistic",
+      "photoFilename": "9EECE308-F213-49C1-A4C0-F87FE2F678F7.JPG",
+      "photoCaption": "Waldo fully deployed on a Yukon/Alaska braided river bar, snow-capped peaks of the Alaska Range looming behind."
+    }
+  ]
+}

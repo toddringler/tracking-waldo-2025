@@ -1,0 +1,14 @@
+{
+  "day": 24,
+  "date": "2025-07-25",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.462048,
+      "lon": -123.859931,
+      "title": "Willaby Campground, WA",
+      "thought": "End of day twenty-four. Another night at Quinault.",
+      "mood": "content"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "day": 48,
+  "date": "2025-08-18",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 60.232283,
+      "lon": -132.91255,
+      "title": "Chilcoot River Campground, YT",
+      "thought": "End of day forty-eight. Chilcoot country.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 60.232283,
+      "lon": -132.91255,
+      "title": "Yukon Welcome Sign",
+      "thought": "The Yukon sign — stickers from a thousand journeys before ours.",
+      "mood": "optimistic",
+      "photoFilename": "A450F588-61BD-4BC2-8323-0DB96029C9F8.JPG",
+      "photoCaption": "The Yukon welcome sign covered in travel stickers, its murals depicting the rivers, mountains, and spirit of the territory."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "day": 57,
+  "date": "2025-08-27",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 64.383984,
+      "lon": -138.348801,
+      "title": "Dawson City, YT",
+      "thought": "End of day fifty-seven. Dawson City — gold rush ghosts and all.",
+      "mood": "content"
+    },
+    {
+      "type": "ferry",
+      "lat": 64.07004,
+      "lon": -139.43689,
+      "title": "George Black Cable Ferry, Dawson City",
+      "thought": "The George Black ferry at Dawson City — a cable ferry across the Yukon, running on river current alone.",
+      "mood": "optimistic",
+      "photoFilename": "1B568F6E-BEC3-4B7C-BF7E-FE99F42FD970.JPG",
+      "photoCaption": "The George Black cable ferry crosses the Yukon River at Dawson City, fall birch turning yellow on the far bank."
+    },
+    {
+      "type": "sighting",
+      "lat": 64.383984,
+      "lon": -138.348801,
+      "title": "Dempster Highway Sign, Dawson City",
+      "thought": "Dempster Highway 5 North — Arctic Ocean 880km. There it is on a sign.",
+      "mood": "optimistic",
+      "photoFilename": "D15657A7-306E-42E1-AF4F-B1EC56C76E89.JPG",
+      "photoCaption": "Dempster Highway 5 North at Dawson City: Eagle Lodge 363km, Inuvik 735km, Arctic Ocean 880km."
+    }
+  ]
+}

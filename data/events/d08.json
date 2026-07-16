@@ -1,0 +1,24 @@
+{
+  "day": 8,
+  "date": "2025-07-09",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 47.750947,
+      "lon": -84.835513,
+      "title": "Rabbit Blanket Lake, ON, Canada",
+      "thought": "End of day eight.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 47.79416569524852,
+      "lon": -84.90113433902003,
+      "title": "Foggy Shoreline, Lake Superior Provincial Park",
+      "thought": "Lake Superior generates its own weather — fog rolling in mid-afternoon.",
+      "mood": "content",
+      "photoFilename": "42033A32-F30D-4BF7-BB99-5AE6E3F10079_1_102_o.jpeg",
+      "photoCaption": "Fog drifts across a rocky Lake Superior shoreline, conifers dissolving into grey."
+    }
+  ]
+}

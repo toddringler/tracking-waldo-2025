@@ -1,0 +1,24 @@
+{
+  "day": 18,
+  "date": "2025-07-19",
+  "events": [
+    {
+      "type": "camp",
+      "lat": 46.50318,
+      "lon": -116.347542,
+      "title": "Pink House Campground, Clearwater County, ID",
+      "thought": "End of day eighteen. Clearwater country.",
+      "mood": "content"
+    },
+    {
+      "type": "sighting",
+      "lat": 46.33764,
+      "lon": -115.31500,
+      "title": "Cutthroat on the Lochsa",
+      "thought": "Cutthroat on the Lochsa — couldn't resist making a few casts.",
+      "mood": "optimistic",
+      "photoFilename": "5A38AD5D-6D5F-4BA2-B473-0BE2398A5300_1_102_o.jpeg",
+      "photoCaption": "A fat cutthroat trout from the Lochsa River, hooked and ready to go back."
+    }
+  ]
+}

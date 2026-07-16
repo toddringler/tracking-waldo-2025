@@ -6,19 +6,21 @@
       "type": "camp",
       "lat": 56.169174,
       "lon": -130.051453,
-      "title": "Salmon Glacier Viewpoint, Stewart, BC",
-      "thought": "End of day forty-three. The glacier looms above.",
-      "mood": "content"
+      "title": "An overland rigs party overlooking Salmon Glacier",
+      "thought": "The Salmon Glacier viewpoint draws rigs from all walks of life — Waldo camped here with a collection of wanderers from around the world.",
+      "mood": "content",
+      "photoFilename": "954D60C4-2532-4FFF-AD4E-68C76C0AE204.JPG",
+      "photoCaption": "Overland rigs, campers and expedition vehicles parked for the night at the Salmon Glacier viewpoint at dusk."
     },
     {
       "type": "sighting",
       "lat": 56.08215,
       "lon": -129.27628,
-      "title": "Salmon Glacier Summit View",
-      "thought": "The Salmon Glacier doesn't prepare you — nothing does. It just sits there, massive and ancient.",
-      "mood": "optimistic",
+      "title": "Grizzly Tracks, Hannah Creek",
+      "thought": "Fresh grizzly tracks in the mud along Hannah Creek — we weren't the only ones on this road today.",
+      "mood": "cautious",
       "photoFilename": "IMG_4033.jpeg",
-      "photoCaption": "The Salmon Glacier pours through its BC valley from the summit viewpoint near Stewart, an enormous river of ancient ice."
+      "photoCaption": "Fresh grizzly bear tracks pressed deep in the mud along Hannah Creek in the Salmon River valley, BC."
     },
     {
       "type": "sighting",

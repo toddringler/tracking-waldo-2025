@@ -6,29 +6,19 @@
       "type": "camp",
       "lat": 55.909399,
       "lon": -130.028385,
-      "title": "Eagle Point, Hyder, AK",
+      "title": "Glacial Bar Camp, Hyder, AK",
       "thought": "End of day forty-four. Crossed into Alaska — barely.",
       "mood": "content"
     },
     {
       "type": "sighting",
-      "lat": 56.16929,
-      "lon": -130.05089,
-      "title": "Glacier Viewpoint Camp",
-      "thought": "The Salmon Glacier viewpoint draws its people — camped here with a collection of wanderers.",
-      "mood": "content",
-      "photoFilename": "954D60C4-2532-4FFF-AD4E-68C76C0AE204.JPG",
-      "photoCaption": "Overland rigs, campers and expedition vehicles parked for the night at the Salmon Glacier viewpoint at dusk."
-    },
-    {
-      "type": "sighting",
       "lat": 55.93589,
       "lon": -129.9951,
-      "title": "Shrimp Tacos, Hyder, AK",
-      "thought": "Shrimp tacos in Hyder — civilization appears in unexpected places.",
+      "title": "Shrimp Tacos, Stewart, BC",
+      "thought": "Shrimp tacos in Stewart — civilization appears in unexpected places.",
       "mood": "optimistic",
       "photoFilename": "7B07CEBD-5696-461C-992A-4FE8A5EAD0B3.JPG",
-      "photoCaption": "Shrimp tacos served on a cedar board in Hyder, AK — a surprisingly excellent restaurant at the end of the road."
+      "photoCaption": "Shrimp tacos served on a cedar board in Stewart, BC — a surprisingly excellent restaurant at the end of the road."
     }
   ]
 }

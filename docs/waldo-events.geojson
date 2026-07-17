@@ -1379,8 +1379,8 @@
         "day": 37,
         "date": "2025-08-07",
         "type": "camp",
-        "title": "Raft Cove, BC",
-        "thought": "End of day thirty-seven. Raft Cove delivers.",
+        "title": "Port Hardy, BC",
+        "thought": "End of day thirty-seven. Preparing for the big float.",
         "mood": "content",
         "status": "",
         "photoFilename": "",
@@ -1573,7 +1573,7 @@
         "mood": "cautious",
         "status": "",
         "photoFilename": "IMG_4033.jpeg",
-        "photoCaption": "Fresh grizzly bear tracks pressed deep in the mud along Hannah Creek in the Salmon River valley, BC."
+        "photoCaption": "Fresh grizzly bear tracks pressed deep in the mud along Hannah Creek near Meziadin Junction."
       }
     },
     {
@@ -1653,7 +1653,7 @@
         "date": "2025-08-15",
         "type": "sighting",
         "title": "Bear on Fish Creek, Hyder",
-        "thought": "Fish Creek delivers — a grizzly with a salmon in its mouth, ten feet away.",
+        "thought": "Fish Creek delivers — a grizzly with a salmon in its mouth.",
         "mood": "optimistic",
         "status": "",
         "photoFilename": "3333421F-0298-4A93-A353-CDEA57628AAF.JPG",
@@ -2349,8 +2349,8 @@
         "thought": "The Arctic Ocean. Made it.",
         "mood": "optimistic",
         "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
+        "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
+        "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
       }
     },
     {
@@ -2394,29 +2394,8 @@
         "photoFilename": "094FD878-B8BD-469A-BF4D-38F0A94E5786.JPG",
         "photoCaption": "Waldo's hood and bumper frame the Beaufort Sea at Tuktoyaktuk — the Arctic Ocean at journey's end."
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -133.0381,
-          69.45428
-        ]
-      },
-      "properties": {
-        "day": 61,
-        "date": "2025-08-31",
-        "type": "sighting",
-        "title": "Arrival at Tuktoyaktuk",
-        "thought": "We made it. Tuk, the Arctic Ocean, and every single mile between here and home.",
-        "mood": "optimistic",
-        "status": "",
-        "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
-        "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
-      }
     }
   ],
-  "generated": "2026-07-16T21:06:21.033Z",
-  "totalEvents": 115
+  "generated": "2026-07-17T01:47:46.304Z",
+  "totalEvents": 114
 }

@@ -8,7 +8,9 @@
       "lon": -133.038344,
       "title": "Tuktoyaktuk, NT, Canada",
       "thought": "The Arctic Ocean. Made it.",
-      "mood": "optimistic"
+      "mood": "optimistic",
+      "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
+      "photoCaption": "Camp set on the edge of the Beaufort Sea — the end of a 61-day journey from Maryland to the Arctic Ocean."
     },
     {
       "type": "sighting",
@@ -18,7 +20,7 @@
       "thought": "Nearing the end of the Dempster — and the beginning of the road into Tuk.",
       "mood": "optimistic",
       "photoFilename": "IMG_4384.jpeg",
-      "photoCaption": "This is what 880 kilometers to the Arctic Ocean looks like on the Dempster Highway."
+      "photoCaption": "This is what 880 kilometers of Dempster Highway gravel looks like."
     },
     {
       "type": "sighting",
@@ -29,16 +31,6 @@
       "mood": "optimistic",
       "photoFilename": "094FD878-B8BD-469A-BF4D-38F0A94E5786.JPG",
       "photoCaption": "Waldo's hood and bumper frame the Beaufort Sea at Tuktoyaktuk — the Arctic Ocean at journey's end."
-    },
-    {
-      "type": "sighting",
-      "lat": 69.45428,
-      "lon": -133.0381,
-      "title": "Arrival at Tuktoyaktuk",
-      "thought": "We made it. Tuk, the Arctic Ocean, and every single mile between here and home.",
-      "mood": "optimistic",
-      "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
-      "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
     }
   ]
 }

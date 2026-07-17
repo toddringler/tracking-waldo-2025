@@ -4,11 +4,13 @@
   "events": [
     {
       "type": "camp",
-      "lat": 65.085232,
-      "lon": -138.36207,
-      "title": "Blackstone River Camp, YT",
-      "thought": "End of day fifty-eight. The Dempster unwinds north.",
-      "mood": "content"
+      "lat": 65.41802229382019,
+      "lon": -138.21062610819106,
+      "title": "Gravel Bar Camp, Ogilvie River, YT",
+      "thought": "End of day fifty-eight. Camped on a wide gravel bar along the Ogilvie River — the kind of spot that makes you forget about mileage.",
+      "mood": "content",
+      "photoFilename": "6B5A0FD2-8FB9-427C-965D-8469D4C65995_1_105_c.jpeg",
+      "photoCaption": "Camp on a gravel bar along the Ogilvie River, Yukon."
     },
     {
       "type": "sighting",

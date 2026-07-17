@@ -2148,20 +2148,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -138.36207,
-          65.085232
+          -138.21062610819106,
+          65.41802229382019
         ]
       },
       "properties": {
         "day": 58,
         "date": "2025-08-28",
         "type": "camp",
-        "title": "Blackstone River Camp, YT",
-        "thought": "End of day fifty-eight. The Dempster unwinds north.",
+        "title": "Gravel Bar Camp, Ogilvie River, YT",
+        "thought": "End of day fifty-eight. Camped on a wide gravel bar along the Ogilvie River — the kind of spot that makes you forget about mileage.",
         "mood": "content",
         "status": "",
-        "photoFilename": "",
-        "photoCaption": ""
+        "photoFilename": "6B5A0FD2-8FB9-427C-965D-8469D4C65995_1_105_c.jpeg",
+        "photoCaption": "Camp on a gravel bar along the Ogilvie River, Yukon."
       }
     },
     {
@@ -2350,7 +2350,7 @@
         "mood": "optimistic",
         "status": "",
         "photoFilename": "86F7FB06-7874-4B4E-B520-20A514FBA071.JPG",
-        "photoCaption": "Two travelers at the Tuktoyaktuk welcome sign — the end of a 61-day journey from Pennsylvania to the Arctic Ocean."
+        "photoCaption": "Camp set on the edge of the Beaufort Sea — the end of a 61-day journey from Maryland to the Arctic Ocean."
       }
     },
     {
@@ -2371,7 +2371,7 @@
         "mood": "optimistic",
         "status": "",
         "photoFilename": "IMG_4384.jpeg",
-        "photoCaption": "This is what 880 kilometers to the Arctic Ocean looks like on the Dempster Highway."
+        "photoCaption": "This is what 880 kilometers of Dempster Highway gravel looks like."
       }
     },
     {
@@ -2396,6 +2396,6 @@
       }
     }
   ],
-  "generated": "2026-07-17T01:47:46.304Z",
+  "generated": "2026-07-17T17:23:17.792Z",
   "totalEvents": 114
 }
